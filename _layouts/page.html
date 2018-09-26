@@ -1,0 +1,19 @@
+{% include header.html %}
+
+
+<div class="container">
+	<div class="row">
+	    <div class="col-lg-4 mb-4">
+	    {% for photo in page.photos %}
+        {% if photo.image != nil %}
+          <img src="{{ photo.image }}" alt="{{ photo.txt }}" class="img-fluid">
+        {% endif %}
+        {% endfor %}
+	    </div>
+	    <div class="col-lg-8 mb-4">
+	      {{ content }}
+	    </div>
+	</div>
+</div>
+
+{% include footer.html %}
