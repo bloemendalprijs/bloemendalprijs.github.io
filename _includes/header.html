@@ -47,8 +47,8 @@
     </nav>
 
     <div class="container">
-      <div class="p-4 mb-4 rounded" style="background-image: url('{{ page.background_image }}'); background-repeat: no-repeat; background-size: cover">
-        <img src="/assets/img/logo.png" alt="De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent in de media.">
+      <div class="p-4 mb-4 rounded" style="background-image: url('{{ page.background_image | relative_url }}'); background-repeat: no-repeat; background-size: cover">
+        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent in de media.">
         <!-- <br>
         <h1 class="text-light font-weight-bold" style="text-shadow: 2px 2px 2px #000;">Phillip Bloemendal Prijs</h1>
         <p class="lead text-light" style="text-shadow: 2px 2px 2px #000;">De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent in de media.</p> -->
