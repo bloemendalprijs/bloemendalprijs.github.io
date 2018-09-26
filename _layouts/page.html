@@ -6,7 +6,7 @@
 	    <div class="col-lg-4 mb-4">
 	    {% for photo in page.photos %}
         {% if photo.image != nil %}
-          <img src="{{ photo.image }}" alt="{{ photo.txt }}" class="img-fluid">
+          <img src="{{ photo.image | relative_url }}" alt="{{ photo.txt }}" class="img-fluid">
         {% endif %}
         {% endfor %}
 	    </div>
