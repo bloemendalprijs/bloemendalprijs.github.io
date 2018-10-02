@@ -5,14 +5,10 @@
   <div class="row">
     <div class="col-lg-3 mb-4">
         <div class="list-group list-group-flush">
-          <a href="#" class="list-group-item list-group-item-action">2016 &mdash; Eva Cleven</a>
-          <a href="#" class="list-group-item list-group-item-action">2014 &mdash; Arman Avsaroglu</a>
-          <a href="#" class="list-group-item list-group-item-action">2012 &mdash; Luuk Ikink</a>
-          <a href="#" class="list-group-item list-group-item-action">2010 &mdash; Ajouad El-Miloudi</a>
-          <a href="#" class="list-group-item list-group-item-action">2008 &mdash; Sofie van den Enk</a>
-          <a href="#" class="list-group-item list-group-item-action">2006 &mdash; Wouter Zwart</a>
-          <a href="#" class="list-group-item list-group-item-action">2004 &mdash; Lucella Carasso</a>
-          <a href="#" class="list-group-item list-group-item-action">2002 &mdash; Brecht van Hulten</a>
+          {% assign winners = site.winners | sort: 'year' | reverse %}
+          {% for winner in winners %}
+          <a href="{{ winner.url | relative_url }}" class="list-group-item list-group-item-action">{{ winner.year }} &mdash;{{ winner.title }}</a>
+          {% endfor %}
         </div>
     </div>
     <div class="col-lg-6 mb-4">

@@ -3,17 +3,26 @@
 
 <div class="container">
 	<div class="row">
-	    <div class="col-lg-4 mb-4">
+	    <div class="col-lg-4">
 	    {% for photo in page.photos %}
         {% if photo.image != nil %}
-          <img src="{{ photo.image | relative_url }}" alt="{{ photo.txt }}" class="img-fluid">
+          <img src="{{ photo.image | relative_url }}" alt="{{ photo.txt }}" class="mb-4" style="width:100%;height:auto">
+        {% endif %}
+        {% endfor %}
+        {% for video in page.videos %}
+        {% if video != nil %}
+        <div class="embed-responsive embed-responsive-16by9 mb-4">
+		  <iframe class="embed-responsive-item" src="{{ video }}" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		</div>
         {% endif %}
         {% endfor %}
 	    </div>
 	    <div class="col-lg-8 mb-4">
+	      <h1>{{ page.title }}</h1>
 	      {{ content }}
 	    </div>
 	</div>
 </div>
 
 {% include footer.html %}
+

@@ -1,0 +1,21 @@
+{% include header.html %}
+
+
+<div class="container">
+  {% assign winners = site.winners | sort: 'year' | reverse %}
+  {% for winner in winners %}
+  <div class="row">
+    <div class="col-lg-4">
+      <a href="{{ winner.url | relative_url }}"><img src="{{ winner.photos[0].image | relative_url }}" alt="{{ winner.photos[0].txt }}" class="mb-4" style="width:100%;height:auto"></a>
+    </div>
+    <div class="col-lg-8 mb-4">
+      <h2><a href="{{ winner.url | relative_url }}">{{ winner.title }}</a></h2>
+      <p>{{ winner.excerpt | strip_html }}</p>
+      <p><a href="{{ winner.url | relative_url }}">Lees meer &raquo;</a></p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+{% include footer.html %}
+
