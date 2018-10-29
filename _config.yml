@@ -20,7 +20,7 @@ collections:
     output: true
     permalink: "/winnaar/:title/"
   posts:
-    title: Posts
+    title: Nieuws
     output: true
   uploads:
     title: Uploads
