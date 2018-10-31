@@ -6,7 +6,7 @@
 	    <div class="col-lg-4">
 	    {% for photo in page.photos %}
         {% if photo.image != nil %}
-          <img src="{{ photo.image | relative_url }}" alt="{{ photo.txt }}" class="mb-4" style="width:100%;height:auto">
+          <img src="{{ photo.image | relative_url }}" alt="{{ photo.txt }}" class="mb-4 border" style="width:100%;height:auto">
         {% endif %}
         {% endfor %}
         {% for video in page.videos %}
@@ -18,7 +18,7 @@
         {% endfor %}
 	    </div>
 	    <div class="col-lg-8 mb-4">
-	      <h1>{{ page.title }}</h1>
+	      <h1 class="h2">{{ page.title }}</h1>
 	      {{ content }}
 	    </div>
 	</div>

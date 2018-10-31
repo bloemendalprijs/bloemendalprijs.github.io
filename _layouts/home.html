@@ -21,11 +21,10 @@
         <a class="btn btn-primary btn-lg btn-block text-white" href="#" role="button">Aanmelden</a>
       </div>
       <hr>
-      <h5>Wim Daniëls over Philip Bloemendal</h5>
-      <p>
-        Cabaretier Wim Daniëls neemt in dit theaterprogramma op 10 juni bij Beeld en Geluid het taalgevoel en de humor van Philip Bloemendal, dé stem van naoorlogs Nederland, onder de loep. Dit, in het kader van de 100ste geboortedag van Philip Bloemendal op 25 juni aanstaande.
-      </p>
-      <a href="#">Meer nieuws &raquo;</a>
+      {% assign latest = site.posts[0] %}
+      <h5>{{ latest.title }}</h5>
+      <p>{{ latest.excerpt | strip_html }}</p>
+      <a href="{{ latest.url | relative_url }}">Lees meer &raquo;</a>
     </div>
   </div>
 </div>

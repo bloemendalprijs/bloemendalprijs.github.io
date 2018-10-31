@@ -5,7 +5,7 @@
   {% for post in site.posts %}
   <div class="row">
     <div class="col-lg-4">
-      <a href="{{ post.url | relative_url }}"><img src="{{ post.photos[0].image | relative_url }}" alt="{{ post.photos[0].txt }}" class="mb-4" style="width:100%;height:auto"></a>
+      <a href="{{ post.url | relative_url }}"><img src="{{ post.photos[0].image | relative_url }}" alt="{{ post.photos[0].txt }}" class="mb-4 border" style="width:100%;height:auto"></a>
     </div>
     <div class="col-lg-8 mb-4">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>

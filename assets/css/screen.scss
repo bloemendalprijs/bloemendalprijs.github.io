@@ -8,7 +8,7 @@ $primary: #fd7e14;
 
 @import "bootstrap/scss/bootstrap.scss";
 
-h1, h2, h3 {
+h1, h2, h3, .h1, .h2, .h3 {
 	color: $orange;
 }
 

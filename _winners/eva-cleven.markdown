@@ -8,7 +8,7 @@ photos:
   txt: "Eva Cleven"
 - image: "/uploads/amberbrantsen.jpg"
   txt: "Amber Brantsen"
-- image: "/uploads/anita_sara_nederlof_0.jpg"
+- image: "/uploads/anita_sara_nederlof.jpg"
   txt: "Anita Sara Nederlof"
 - image: "/uploads/genomineerden_pbp_2016.jpg"
   txt: "Genomineerden"

@@ -18,10 +18,11 @@ collections:
   winners:
     title: Winnaars
     output: true
-    permalink: "/winnaar/:title/"
+    permalink: "/winnaar/:title"
   posts:
     title: Nieuws
     output: true
+    permalink: "/artikel/:title"
   uploads:
     title: Uploads
     output: true
