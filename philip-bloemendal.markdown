@@ -21,6 +21,37 @@ Reacties in de pers na het overlijden van 'de Stem van Nederland':
 
 > Bloemendals stem is aan de universiteit van Eindhoven begin jaren negentig ook voorwerp van onderzoek geweest ten behoeve van de ontwikkeling van computerspraak. Een van de conclusies van het onderzoek was dat de zuiverheid van zijn stem ongekend hoog was. In verband daarmee werd hem ook gevraagd of hij iets bijzonders deed om zijn stem in conditie te houden. 'Nee' zei hij, 'ik doe er niets voor, of nou ja, ik neem wel eens een wybertje. _(BN/De Stem)_
 
+### Geluidsfragmenten
+
+---
+
+Radio Marimba - VARA 1960
+
+<audio controls>
+  <source src="{{ '/uploads/1960_1.mp3' | relative_url }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+---
+ 
+Radio Weekjournaal - VARA 1980
+ 
+<audio controls>
+  <source src="{{ '/uploads/1980_0.mp3' | relative_url }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+---
+
+Radio interview - KRO 1982
+
+<audio controls>
+  <source src="{{ '/uploads/radiofragment1982.mp4' | relative_url }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
+---
+
 ### Levensloop
 
 **1918** geboren op 25 juni in den Haag.
@@ -53,5 +84,14 @@ Overzicht complete [oeuvre op wiki.beeldengeluid.nl](https://wiki.beeldengeluid.
 
 **Onderscheidingen:** Officier in de Orde van Oranje Nassau, Officier in de Kroonorde van België, Lid van verdienste NBF, Erelid Nierstichting Nederland. Vermelding: in het Guiness Book of Records sedert 1982 als 'Langst werkende commentator bij filmjournaals'.
 
-
 Lees de biografie van [Philip Bloemendal in de Beeld en Geluid Wiki](https://wiki.beeldengeluid.nl/index.php/Philip_Bloemendal)
+
+### Beeldfragment
+
+
+<div class="embed-responsive embed-responsive-4by3">
+  <video controls class="embed-responsive-item">
+    <source src="{{ '/uploads/philip512k_0.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+</div>

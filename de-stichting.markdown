@@ -28,10 +28,10 @@ Postbus 1060
 
 Het RSIN/Fiscaal nummer: 8103.95.691  
 
-Balans en staat van baten en lasten
+Balans en staat van baten en lasten:
 
-2013-2014  
-2015-2016  
+* [2013-2014](/uploads/Financieeljaarverslag2013-2014PBP.pdf)
+* [2015-2016](/uploads/Financieeljaarverslag2015-2016PBP.pdf)
 
 Telefoon: 035 - 6774999  
 E-mail: [bloemendalprijs@beeldengeluid.nl](mailto:bloemendalprijs@beeldengeluid.nl)  
