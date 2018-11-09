@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Longlist kandidaten Philip Bloemendal Prijs 2018 bekend"
-date: 2018-10-15 00:00:00 +0200
+date: 2018-11-06 00:00:00 +0200
 categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
