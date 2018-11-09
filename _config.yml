@@ -27,9 +27,8 @@ defaults:
 email: bloemendalprijs@beeldengeluid.nl
 description: >- # this means to ignore newlines until "baseurl:"
   De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen.
-baseurl: "/bloemendal" # the subpath of your site, e.g. /blog
-# url: "https://beeldengeluid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bloemendalprijs.github.io"
 twitter_username: bloemendalprijs
 
 # Build settings
