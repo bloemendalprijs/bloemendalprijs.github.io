@@ -13,16 +13,19 @@
       {{ content }}
     </div>
     <div class="col-lg-3 mb-4">
+      <h3>Nieuws</h3>
+      {% assign latest = site.posts[0] %}
+      <h5>{{ latest.title }}</h5>
+      <p>{{ latest.excerpt | strip_html }}</p>
+      <a href="{{ '/nieuwsoverzicht' | relative_url }}">Meer nieuws &raquo;</a>
+      <!--
+      <hr>
       <p>De eerstvolgende editie van de Philip Bloemendal Prijs (PBP) zal plaatsvinden op 13 december 2018.
       Kandidaten kunnen zich aanmelden van 4 juni 2018 tot en met 8 oktober 2018.</p>
       <div class="mx-auto" style="max-width:260px">
         <a class="btn btn-primary btn-lg btn-block text-white" href="{{ '/aanmelden' | relative_url }}" role="button">Aanmelden</a>
       </div>
-      <hr>
-      {% assign latest = site.posts[0] %}
-      <h5>{{ latest.title }}</h5>
-      <p>{{ latest.excerpt | strip_html }}</p>
-      <a href="{{ latest.url | relative_url }}">Lees meer &raquo;</a>
+      -->
     </div>
   </div>
 </div>

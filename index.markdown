@@ -1,6 +1,5 @@
 ---
 title: Home
-position: 1
 background_image: "/assets/img/header-bg-general.jpg"
 layout: home
 ---
