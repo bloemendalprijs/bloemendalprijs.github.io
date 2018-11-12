@@ -48,8 +48,8 @@ defaults:
 email: bloemendalprijs@beeldengeluid.nl
 description: >-
   De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen.
-baseurl: ""
-url: "https://bloemendalprijs.github.io"
+baseurl: 
+url: https://bloemendalprijs.github.io
 twitter_username: bloemendalprijs
 markdown: kramdown
 plugins:
