@@ -24,26 +24,43 @@ defaults:
     - image: 
       txt:
     videos: []
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: page
+    background_image: "/assets/img/header-bg-news.jpg"
+    photos:
+    - image: 
+      txt:
+    videos: []
+- scope:
+    path: ''
+    type: winners
+  values:
+    layout: page
+    year: 
+    background_image: "/assets/img/header-bg-winners.jpg"
+    photos:
+    - image: 
+      txt:
+    videos: []
 email: bloemendalprijs@beeldengeluid.nl
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://bloemendalprijs.github.io"
 twitter_username: bloemendalprijs
-
-# Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- node_modules
+- script
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

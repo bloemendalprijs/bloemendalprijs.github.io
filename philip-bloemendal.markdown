@@ -27,28 +27,19 @@ Reacties in de pers na het overlijden van 'de Stem van Nederland':
 
 Radio Marimba - VARA 1960
 
-<audio controls>
-  <source src="{{ '/uploads/1960_1.mp3' | relative_url }}" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
+{% include audio.html src= '/uploads/1960_1.mp3' %}
 
 ---
  
 Radio Weekjournaal - VARA 1980
- 
-<audio controls>
-  <source src="{{ '/uploads/1980_0.mp3' | relative_url }}" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
+
+{% include audio.html src= '/uploads/1980_0.mp3' %}
 
 ---
 
 Radio interview - KRO 1982
 
-<audio controls>
-  <source src="{{ '/uploads/radiofragment1982.mp4' | relative_url }}" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio> 
+{% include audio.html src= '/uploads/radiofragment1982.mp4' %}
 
 ---
 
@@ -88,10 +79,4 @@ Lees de biografie van [Philip Bloemendal in de Beeld en Geluid Wiki](https://wik
 
 ### Beeldfragment
 
-
-<div class="embed-responsive embed-responsive-4by3">
-  <video controls class="embed-responsive-item">
-    <source src="{{ '/uploads/philip512k_0.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video element.
-  </video>
-</div>
+{% include video.html ratio='4by3' src='/uploads/philip512k_0.mp4' %}
