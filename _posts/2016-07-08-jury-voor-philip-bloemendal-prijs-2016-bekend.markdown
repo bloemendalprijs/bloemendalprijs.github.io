@@ -1,12 +1,13 @@
 ---
+title: Jury voor Philip Bloemendal Prijs 2016 bekend
+date: 2016-07-08 00:00:00 +02:00
+categories:
+- nieuws
 layout: page
-title: "Jury voor Philip Bloemendal Prijs 2016 bekend"
-date: 2016-07-08 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
-  txt: "Philip Bloemendal Prijs"
+  txt: Philip Bloemendal Prijs
 ---
 
 **Hilversum – Donderdag 8 december 2016 wordt de Philip Bloemendal Prijs voor de 8e keer uitgereikt bij Beeld en Geluid in Hilversum. Deze tweejaarlijkse stimuleringsprijs voor jong journalistiek presentatietalent in de media, is in 2001 in het leven geroepen ter nagedachtenis aan de legendarische commentator van het Polygoon journaal Philip Bloemendal, die in 1999 overleed.**

@@ -1,12 +1,13 @@
 ---
+title: Kandidaten Philip Bloemendal Prijs 2016 bekend!
+date: 2016-10-15 00:00:00 +02:00
+categories:
+- nieuws
 layout: page
-title: "Kandidaten Philip Bloemendal Prijs 2016 bekend!"
-date: 2016-10-15 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
-  txt: "Philip Bloemendal Prijs"
+  txt: Philip Bloemendal Prijs
 ---
 
 De kandidaten voor de **Philip Bloemendal Prijs 2016** zijn bekend! Drieëntwintig jonge talentvolle presentatoren hebben zich aangemeld en dingen mee naar de prijs voor het beste journalistieke presentatietalent 2016.

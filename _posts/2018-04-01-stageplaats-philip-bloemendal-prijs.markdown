@@ -1,12 +1,13 @@
 ---
+title: Stageplaats Philip Bloemendal Prijs
+date: 2018-04-01 00:00:00 +02:00
+categories:
+- nieuws
 layout: page
-title: "Stageplaats Philip Bloemendal Prijs"
-date: 2018-04-01 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
-  txt: "Philip Bloemendal Prijs"
+  txt: Philip Bloemendal Prijs
 ---
 
 Op donderdag 13 december 2018  wordt voor de negende keer de Philip Bloemendal Prijs uitgereikt. De Philip Bloemendal Prijs is de tweejaarlijkse prestigieuze stimuleringsprijs voor jonge  talentvolle presentatoren van nieuws en actualiteitenprogramma’s.

@@ -1,12 +1,13 @@
 ---
+title: CEO IDTV Taco Rijssemus toegetreden tot bestuur Philip Bloemendal Prijs
+date: 2018-01-31 23:00:00 +01:00
+categories:
+- nieuws
 layout: page
-title: "CEO IDTV Taco Rijssemus toegetreden tot bestuur Philip Bloemendal Prijs"
-date: 2018-02-01 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/tacorijssemus.jpg"
-  txt: "Taco Rijssemus"
+  txt: Taco Rijssemus
 ---
 
 Taco Rijssemus, CEO van IDTV, is toegetreden tot het bestuur van de Philip Bloemendal Prijs. De prijs, die tweejaarlijkse wordt toegekend aan een jonge talentvolle journalistieke presentator in de media, wordt op donderdag 13 december 2018 uitgereikt in Beeld en Geluid.

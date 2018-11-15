@@ -4,7 +4,7 @@ background_image: "/assets/img/header-bg-prize.jpg"
 layout: page
 photos:
 - image: "/uploads/kunstwerk_0.jpg"
-  txt: "Speech Trumpet"
+  txt: Speech Trumpet
 ---
 
 In december 2018 zal de Philip Bloemendal Prijs voor de 9e maal worden uitgereikt aan een jong presentatietalent.

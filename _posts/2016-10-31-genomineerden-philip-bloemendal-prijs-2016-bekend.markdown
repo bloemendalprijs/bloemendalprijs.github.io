@@ -1,18 +1,19 @@
 ---
+title: Genomineerden Philip Bloemendal Prijs 2016 bekend
+date: 2016-10-31 23:00:00 +01:00
+categories:
+- nieuws
 layout: page
-title: "Genomineerden Philip Bloemendal Prijs 2016 bekend"
-date: 2016-11-01 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
-  txt: "Philip Bloemendal Prijs"
+  txt: Philip Bloemendal Prijs
 - image: "/uploads/amberbrantsen2.jpg"
-  txt: "Amber Brantsen"
+  txt: Amber Brantsen
 - image: "/uploads/evacleven.jpg"
-  txt: "Eva Cleven"
+  txt: Eva Cleven
 - image: "/uploads/anita_sara_nederlof.jpg"
-  txt: "Anita Sara Nederlof"
+  txt: Anita Sara Nederlof
 ---
 
 **De drie genomineerden voor de Philip Bloemendal Prijs 2016 zijn, in alfabetische volgorde, Amber Brantsen (NOS), Eva Cleven (FunX) en Anita Sara Nederlof (RTV Utrecht).**

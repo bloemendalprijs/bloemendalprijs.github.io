@@ -1,11 +1,11 @@
 ---
+title: Luuk Ikink
 layout: page
-title: "Luuk Ikink"
 year: 2012
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/hr-pbp2012-small.jpg"
-  txt: "Luuk Ikink"
+  txt: Luuk Ikink
 videos:
 - https://www.youtube-nocookie.com/embed/2GWDPCD0_8c?rel=0&amp;showinfo=0
 ---

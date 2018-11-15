@@ -1,12 +1,13 @@
 ---
+title: Eva Cleven wint Philip Bloemendal Prijs 2016
+date: 2016-11-30 23:00:00 +01:00
+categories:
+- nieuws
 layout: page
-title: "Eva Cleven wint Philip Bloemendal Prijs 2016"
-date: 2016-12-01 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/website_eva_cleven_01_1.jpg"
-  txt: "Eva Cleven en burgemeester Pieter Broertjes"
+  txt: Eva Cleven en burgemeester Pieter Broertjes
 videos:
 - https://www.youtube-nocookie.com/embed/702Xt_oIIII?rel=0&amp;showinfo=0
 ---

@@ -1,12 +1,13 @@
 ---
+title: 'Aanmeldprocedure Philip Bloemendal Prijs 2016 van start '
+date: 2016-09-01 00:00:00 +02:00
+categories:
+- nieuws
 layout: page
-title: "Aanmeldprocedure Philip Bloemendal Prijs 2016 van start "
-date: 2016-09-01 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/arman_frits_pbp.jpg"
-  txt: "Arman en Frits"
+  txt: Arman en Frits
 ---
 
 Op 1 september is de aanmeldprocedure voor de Philip Bloemendal Prijs 2016 gestart. Via deze site kan jong talent zich aanmelden, maar ook publieke en commerciële omroepen (lokaal, regionaal en nationaal) en online media kunnen journalistiek presentatietalent aanmelden. 

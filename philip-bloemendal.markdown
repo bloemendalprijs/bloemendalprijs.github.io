@@ -1,10 +1,11 @@
 ---
+title: Philip Bloemendal
 layout: page
-title: "Philip Bloemendal"
 background_image: "/assets/img/header-bg-pb.jpg"
 photos:
 - image: "/uploads/Philip_Bloemendal.jpg"
-  txt: "Philip Bloemendal in Monitor (NTS 1966. Bron: fotoarchief Nederlands Instituut voor Beeld en Geluid)"
+  txt: 'Philip Bloemendal in Monitor (NTS 1966. Bron: fotoarchief Nederlands Instituut
+    voor Beeld en Geluid)'
 ---
 
 Reacties in de pers na het overlijden van 'de Stem van Nederland':

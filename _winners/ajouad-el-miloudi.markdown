@@ -1,11 +1,11 @@
 ---
+title: Ajouad El-Miloudi
 layout: page
-title: "Ajouad El-Miloudi"
 year: 2010
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2010_0.jpg"
-  txt: "Ajouad El-Miloudi"
+  txt: Ajouad El-Miloudi
 videos:
 - https://www.youtube-nocookie.com/embed/oIrS-KqCJc4?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/k3AgdY9dBMY?rel=0&amp;showinfo=0

@@ -1,17 +1,17 @@
 ---
+title: Eva Cleven
 layout: page
-title: "Eva Cleven"
 year: 2016
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/website_eva_cleven_01_1.jpg"
-  txt: "Eva Cleven"
+  txt: Eva Cleven
 - image: "/uploads/amberbrantsen.jpg"
-  txt: "Amber Brantsen"
+  txt: Amber Brantsen
 - image: "/uploads/anita_sara_nederlof.jpg"
-  txt: "Anita Sara Nederlof"
+  txt: Anita Sara Nederlof
 - image: "/uploads/genomineerden_pbp_2016.jpg"
-  txt: "Genomineerden"
+  txt: Genomineerden
 ---
 
 **De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die vanmiddag voor de achtste keer werd uitgereikt, is gewonnen door FunX-presentatrice Eva Cleven. In het Nederlands Instituut voor Beeld en Geluid ontving zij uit handen van burgemeester Pieter Broertjes van Hilversum, een cheque ter waarde van 3.500 euro te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.**

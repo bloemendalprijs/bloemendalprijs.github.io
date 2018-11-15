@@ -2,17 +2,16 @@
 title: Philip Bloemendal Prijs
 timezone: Europe/Amsterdam
 collections:
+  posts:
+    title: Nieuws
+    output: true
+  uploads:
+    title: Uploads
+    output: true
   winners:
     title: Winnaars
     output: true
     permalink: "/winnaar/:title"
-  posts:
-    title: Nieuws
-    output: true
-    permalink: "/artikel/:title"
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
@@ -22,7 +21,7 @@ defaults:
     background_image: "/assets/img/header-bg-pb.jpg"
     photos:
     - image: 
-      txt:
+      txt: 
     videos: []
 - scope:
     path: ''
@@ -32,7 +31,7 @@ defaults:
     background_image: "/assets/img/header-bg-news.jpg"
     photos:
     - image: 
-      txt:
+      txt: 
     videos: []
 - scope:
     path: ''
@@ -43,17 +42,19 @@ defaults:
     background_image: "/assets/img/header-bg-winners.jpg"
     photos:
     - image: 
-      txt:
+      txt: 
     videos: []
 email: bloemendalprijs@beeldengeluid.nl
-description: >-
-  De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen.
+description: De Phillip Bloemendal Prijs stimuleert jong journalistiek presentatietalent
+  in de media. Genomineerden ontvangen een oorkonde en de winnaar ontvangt tevens
+  een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om
+  zich binnen het vakgebied verder te bekwamen.
 baseurl: 
 url: https://www.bloemendal.info
 twitter_username: bloemendalprijs
 markdown: kramdown
 plugins:
-  - jekyll-feed
+- jekyll-feed
 exclude:
 - README.md
 - Gemfile

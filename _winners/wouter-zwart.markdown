@@ -1,11 +1,11 @@
 ---
+title: Wouter Zwart
 layout: page
-title: "Wouter Zwart"
 year: 2006
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2006_0.jpg"
-  txt: "Wouter Zwart"
+  txt: Wouter Zwart
 videos:
 - https://www.youtube-nocookie.com/embed/2otNSZ2s1cA?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/AloWr56TIIc?rel=0&amp;showinfo=0

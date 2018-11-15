@@ -1,13 +1,13 @@
 ---
+title: Arman Avsaroglu
 layout: page
-title: "Arman Avsaroglu"
 year: 2014
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/philip-bloemendal-prijs-2014-bho-1352.jpg"
-  txt: "Arman Avsaroglu"
+  txt: Arman Avsaroglu
 - image: "/uploads/persfoto-philip-bloemendalprijs-2014-babet-hogervorst_web_1.jpg"
-  txt: "Genomineerden"
+  txt: Genomineerden
 videos:
 - https://www.youtube-nocookie.com/embed/tImi8gnNa-s?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/ohEfF5b5d8c?rel=0&amp;showinfo=0

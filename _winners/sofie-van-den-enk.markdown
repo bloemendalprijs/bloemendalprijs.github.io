@@ -1,11 +1,11 @@
 ---
+title: Sofie van den Enk
 layout: page
-title: "Sofie van den Enk"
 year: 2008
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2008_0.jpg"
-  txt: "Sofie van den Enk"
+  txt: Sofie van den Enk
 videos:
 - https://www.youtube-nocookie.com/embed/gHX_mfeiMpQ?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/awj7ataEiys?rel=0&amp;showinfo=0

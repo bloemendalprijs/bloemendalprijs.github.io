@@ -1,10 +1,11 @@
 ---
+title: 404 Pagina niet gevonden
 layout: page
-title: "404 Pagina niet gevonden"
 background_image: "/assets/img/header-bg-general.jpg"
 photos:
 - image: "/uploads/Philip_Bloemendal.jpg"
-  txt: "Philip Bloemendal in Monitor (NTS 1966. Bron: fotoarchief Nederlands Instituut voor Beeld en Geluid)"
+  txt: 'Philip Bloemendal in Monitor (NTS 1966. Bron: fotoarchief Nederlands Instituut
+    voor Beeld en Geluid)'
 ---
 
 De pagina die je zoekt bestaat niet. Hij kan verplaatst of geheel verwijderd zijn. 

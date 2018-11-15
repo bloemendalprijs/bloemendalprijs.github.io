@@ -1,11 +1,11 @@
 ---
+title: Lucella Carasso
 layout: page
-title: "Lucella Carasso"
 year: 2004
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2004_0.jpg"
-  txt: "Lucella Carasso"
+  txt: Lucella Carasso
 videos:
 - https://www.youtube-nocookie.com/embed/dxe9IKC1iC4?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/et56laa_hBI?rel=0&amp;showinfo=0

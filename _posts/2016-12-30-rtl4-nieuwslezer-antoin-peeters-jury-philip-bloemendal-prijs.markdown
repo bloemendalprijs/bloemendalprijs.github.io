@@ -1,12 +1,13 @@
 ---
+title: RTL4 nieuwslezer Antoin Peeters in jury Philip Bloemendal Prijs
+date: 2016-12-30 23:00:00 +01:00
+categories:
+- nieuws
 layout: page
-title: "RTL4 nieuwslezer Antoin Peeters in jury Philip Bloemendal Prijs"
-date: 2016-12-31 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/antoinpeeters.jpg"
-  txt: "Antoin Peeters"
+  txt: Antoin Peeters
 ---
 
 De Philip Bloemendal Prijs, die tweejaarlijkse wordt toegekend aan een jonge talentvolle journalistieke presentator in de media, heeft een aantal wijzigingen in de jury en bestuur doorgevoerd. Zo is RTL nieuwslezer Antoin Peeters toegevoegd aan de jury. Jan Westerhof, voormalig directeur Radio NPO heeft als juryvoorzitter het stokje overgenomen van Frits (Ritmeester) Spits die vanaf dit jaar deel uitmaakt van het bestuur.

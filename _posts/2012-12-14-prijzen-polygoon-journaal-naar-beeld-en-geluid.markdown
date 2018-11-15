@@ -1,12 +1,13 @@
 ---
+title: Prijzen Polygoon-Journaal naar Beeld en Geluid
+date: 2012-12-14 23:00:00 +01:00
+categories:
+- nieuws
 layout: page
-title: "Prijzen Polygoon-Journaal naar Beeld en Geluid"
-date: 2012-12-15 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/overdracht_prijzen.jpg"
-  txt: "Overdracht prijzen"
+  txt: Overdracht prijzen
 ---
 
 Naast het complete Polygoon-beeldarchief en het privé-archief van Philip Bloemendal zijn nu ook  de prijzen die het Polygoon-journaal ooit won, overgedragen aan het Nederlands Instituut voor Beeld en Geluid.

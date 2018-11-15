@@ -1,12 +1,13 @@
 ---
+title: Samenwerking met Beeld en Geluid
+date: 2011-12-14 23:00:00 +01:00
+categories:
+- nieuws
 layout: page
-title: "Samenwerking met Beeld en Geluid"
-date: 2011-12-15 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/beeld_en_geluid_zijkant.jpg"
-  txt: "Beeld en Geluid zijkant"
+  txt: Beeld en Geluid zijkant
 ---
 
 Het Philip Bloemendal Fonds en het Nederlands Instituut voor Beeld en Geluid zijn een samenwerking aangegaan. Hiermee wordt het voortbestaan van de talentprijs voor jonge commentatoren en presentatoren in de media gegarandeerd.

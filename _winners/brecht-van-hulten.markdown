@@ -1,11 +1,11 @@
 ---
+title: Brecht van Hulten
 layout: page
-title: "Brecht van Hulten"
 year: 2002
 background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2002_0.jpg"
-  txt: "Brecht van Hulten"
+  txt: Brecht van Hulten
 videos:
 - https://www.youtube-nocookie.com/embed/M7DXvfB7ctA?rel=0&amp;showinfo=0
 ---

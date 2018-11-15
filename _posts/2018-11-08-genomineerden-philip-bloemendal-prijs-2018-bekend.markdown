@@ -1,18 +1,19 @@
 ---
+title: Genomineerden Philip Bloemendal Prijs 2018 bekend
+date: 2018-11-08 23:00:00 +01:00
+categories:
+- nieuws
 layout: page
-title: "Genomineerden Philip Bloemendal Prijs 2018 bekend"
-date: 2018-11-09 00:00:00 +0200
-categories: nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
-  txt: "Philip Bloemendal Prijs"
+  txt: Philip Bloemendal Prijs
 - image: "/uploads/sahil_amar_aissa.jpg"
-  txt: "Sahil Amar Aïssa"
+  txt: Sahil Amar Aïssa
 - image: "/uploads/saskia_houttuin.jpg"
-  txt: "Saskia Houttuin"
+  txt: Saskia Houttuin
 - image: "/uploads/charlotte_nijs.jpg"
-  txt: "Charlotte Nijs"
+  txt: Charlotte Nijs
 ---
 
 **De drie genomineerden voor de Philip Bloemendal Prijs 2018 zijn, in alfabetische volgorde, Sahil Amar Aïssa (De Wereld Draait Door- BNNVARA), Saskia Houttuin (RTL Nieuws) en Charlotte Nijs (Hart van Nederland- SBS6). Tijdens de feestelijke uitreiking op donderdag 13 december a.s. wordt de winnaar bekend gemaakt.  De presentatie is in handen van Eva Cleven, de winnares van 2016,  en vindt plaats bij Beeld en Geluid in Hilversum.**

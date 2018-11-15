@@ -1,10 +1,11 @@
 ---
+title: De Stichting
 layout: page
-title: "De Stichting"
 background_image: "/assets/img/header-bg-fund.jpg"
 photos:
 - image: "/uploads/ANWB-prijs_1962.jpg"
-  txt: "Philip Bloemendal ontvangt in 1962 de ANWB-prijs (Foto: Jac. de Nijs. Bron: Nationaal Archief)"
+  txt: 'Philip Bloemendal ontvangt in 1962 de ANWB-prijs (Foto: Jac. de Nijs. Bron:
+    Nationaal Archief)'
 ---
 
 De Stichting Philip Bloemendal Fonds is opgericht in november 2001 met het doel het doorgeven van kwaliteitsbesef over effectief taalgebruik en communicatie in de media aan nieuwe generaties presentatoren.
