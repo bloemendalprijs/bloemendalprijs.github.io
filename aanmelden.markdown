@@ -20,5 +20,5 @@ layout: page
 Een kandidaat levert een opname in van het programma met zijn of haar presentatie ter ondersteuning van de aanmelding, met een totale lengte van bij voorkeur minimaal 10 minuten en maximaal 30 minuten. Een compilatie is toegestaan.
 
 ### Kandidaat
-
+ 
 {% include formulier.html %}
