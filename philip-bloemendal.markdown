@@ -27,19 +27,19 @@ Reacties in de pers na het overlijden van 'de Stem van Nederland':
 
 Radio Marimba - VARA 1960
 
-{% include audio.html src= '/uploads/1960_1.mp3' %}
+{% include audio.html src='/uploads/1960_1.mp3' %}
 
 ---
  
 Radio Weekjournaal - VARA 1980
 
-{% include audio.html src= '/uploads/1980_0.mp3' %}
+{% include audio.html src='/uploads/1980_0.mp3' %}
 
 ---
 
 Radio interview - KRO 1982
 
-{% include audio.html src= '/uploads/radiofragment1982.mp4' %}
+{% include audio.html src='/uploads/radiofragment1982.mp4' %}
 
 ---
 
