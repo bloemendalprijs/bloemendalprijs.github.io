@@ -1,5 +1,6 @@
 ---
 title: Sofie van den Enk
+position: 4
 layout: page
 year: 2008
 background_image: "/assets/img/header-bg-winners.jpg"

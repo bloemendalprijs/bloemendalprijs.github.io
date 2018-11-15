@@ -1,5 +1,6 @@
 ---
 title: Eva Cleven
+position: 0
 layout: page
 year: 2016
 background_image: "/assets/img/header-bg-winners.jpg"

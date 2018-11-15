@@ -1,5 +1,6 @@
 ---
 title: Brecht van Hulten
+position: 7
 layout: page
 year: 2002
 background_image: "/assets/img/header-bg-winners.jpg"

@@ -1,9 +1,9 @@
 ---
 title: Aanmelden
 background_image: "/assets/img/header-bg-prize.jpg"
-layout: page
 videos:
 - https://www.youtube-nocookie.com/embed/L7si2CCh8DY?rel=0&amp;showinfo=0
+layout: page
 ---
 
 * De eerstvolgende editie van de Philip Bloemendal Prijs (PBP) zal plaatsvinden op 13 december 2018.

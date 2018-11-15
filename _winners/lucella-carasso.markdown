@@ -1,5 +1,6 @@
 ---
 title: Lucella Carasso
+position: 6
 layout: page
 year: 2004
 background_image: "/assets/img/header-bg-winners.jpg"

@@ -1,5 +1,6 @@
 ---
 title: Ajouad El-Miloudi
+position: 3
 layout: page
 year: 2010
 background_image: "/assets/img/header-bg-winners.jpg"
