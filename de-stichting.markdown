@@ -54,7 +54,6 @@ Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis 
 * Eef Brouwers (voormalig bestuursvoorzitter Philip Bloemendal Fonds)
 * Henk van Gelder (journalist, voormalig juryvoorzitter Philip Bloemendal Fonds)
 * Guus Hiddink (voetbalcoach)
-* Wim Kok (Minister van Staat)
 * Jan Mulder (columnist)
 * Professor Mr. Pieter van Vollenhoven 
 * Ed van Westerloo (voormalig bestuursvoorzitter Philip Bloemendal Fonds)
