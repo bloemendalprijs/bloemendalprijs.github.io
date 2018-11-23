@@ -2,9 +2,7 @@
 title: De Stichting
 background_image: "/assets/img/header-bg-fund.jpg"
 photos:
-- image: "/uploads/ANWB-prijs_1962.jpg"
-  txt: 'Philip Bloemendal ontvangt in 1962 de ANWB-prijs (Foto: Jac. de Nijs. Bron:
-    Nationaal Archief)'
+- image: "/uploads/eerste%20logo%20PBP.jpg"
 layout: page
 ---
 
