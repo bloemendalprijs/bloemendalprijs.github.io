@@ -19,14 +19,13 @@ Daarbij is speciaal van belang:
 De Stichting wil haar doel onder meer verwezenlijken door:
 
 * het instellen van een prijs gekoppeld aan de naam van Philip Bloemendal.
-
 * het uitreiken van deze prijs aan een jonge commentator/presentator die blijk geeft over talent voor taaloverdracht te beschikken.
 
 ## Secretariaat
 
-Philip Bloemendal Fonds  \
-p/a Nederlands Instituut voor Beeld en Geluid  \
-Postbus 1060  \
+Philip Bloemendal Fonds  
+p/a Nederlands Instituut voor Beeld en Geluid  
+Postbus 1060  
 1200 BB Hilversum  
 
 Het RSIN/Fiscaal nummer: 8103.95.691
@@ -36,7 +35,7 @@ Balans en staat van baten en lasten:
 * [2013-2014](/uploads/Financieeljaarverslag2013-2014PBP.pdf)
 * [2015-2016](/uploads/Financieeljaarverslag2015-2016PBP.pdf)
 
-Telefoon: 035 - 6774999  \
+Telefoon: 035 - 6774999  
 E-mail: [bloemendalprijs@beeldengeluid.nl](mailto:bloemendalprijs@beeldengeluid.nl)
 
 ## Bestuur
