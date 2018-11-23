@@ -3,8 +3,7 @@ title: De Stichting
 background_image: "/assets/img/header-bg-fund.jpg"
 photos:
 - image: "/uploads/1.%20Logo%20PBF%20kleur.JPG"
-  txt: 'Philip Bloemendal ontvangt in 1962 de ANWB-prijs (Foto: Jac. de Nijs. Bron:
-    Nationaal Archief)'
+  txt: 'Origineel logo Stichting Philip Bloemendal Fonds'
 layout: page
 ---
 
@@ -42,28 +41,18 @@ E-mail: [bloemendalprijs@beeldengeluid.nl](mailto:bloemendalprijs@beeldengeluid.
 
 Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis en wordt niet financieel beloond. Per januari 2018:
 
-* Mieke Bloemendal-Olman (initiatiefneemster/wrnd penningmeester)
-
+* Mieke Bloemendal-Olman (initiatiefneemster/wrnd. penningmeester)
 * Sonja de Leeuw, voorzitter (hoogleraar Film en Televisie, Universiteit Utrecht)
-
 * Jennemiek Leijssen, secretaris (corporate communicatemanager Beeld en Geluid)
-
 * Rik Rensen (communicatiestrateeg en journalist)
-
 * Frits (Ritmeester) Spits (radio- en televisiemaker)
-
 * Taco Rijssemus (CEO IDTV)
 
 ## Comité van Aanbeveling
 
 * Sacha de Boer (fotograaf, journalist)
-
 * Henk van Gelder (journalist, voormalig juryvoorzitter Philip Bloemendal Fonds)
-
 * Guus Hiddink (voetbalcoach)
-
 * Jan Mulder (columnist)
-
 * Professor Mr. Pieter van Vollenhoven
-
 * Ed van Westerloo (voormalig bestuursvoorzitter Philip Bloemendal Fonds)

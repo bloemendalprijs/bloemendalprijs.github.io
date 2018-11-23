@@ -32,7 +32,7 @@ In 2018 bestaat de vakjury uit voorzitter Jan Westerhof (voormalig directeur Rad
 
 ### Speech Trumpet
 
-Van 2002 tot en met 2012 vormde het kunstwerk Speech Trumpet  onderdeel van de prijs. De in Zuid-Afrika geboren en woonachtige kunstenares Elmarie van der Merwe (1964) is in 2002 gevraagd het kunstwerk te maken voor de winnaar van de Philip Bloemendal Prijs. Elmarie is Cum Laude geslaagd aan de afdeling Glas van de Gerrit Rietveld Academie in Amsterdam. Voordien studeerde zij in Praag en Zuid Afrika. Thema’s in haar werk zijn vooral geluid en communicatie die zij uitwerkt in transparant glas. Onderwerpen en materiaalkeuze sloten perfect aan bij de doelstellingen van de Philip Bloemendal stimuleringsprijs voor jonge talentvolle presentatoren. Met ingang van 2014 vervalt dit kunstwerk als onderdeel van de prijs.
+Van 2002 tot en met 2012 vormde het kunstwerk Speech Trumpet onderdeel van de prijs. De in Zuid-Afrika geboren en woonachtige kunstenares Elmarie van der Merwe (1964) is in 2002 gevraagd het kunstwerk te maken voor de winnaar van de Philip Bloemendal Prijs. Elmarie is Cum Laude geslaagd aan de afdeling Glas van de Gerrit Rietveld Academie in Amsterdam. Voordien studeerde zij in Praag en Zuid Afrika. Thema’s in haar werk zijn vooral geluid en communicatie die zij uitwerkt in transparant glas. Onderwerpen en materiaalkeuze sloten perfect aan bij de doelstellingen van de Philip Bloemendal stimuleringsprijs voor jonge talentvolle presentatoren. Met ingang van 2014 vervalt dit kunstwerk als onderdeel van de prijs.
 
 ### Reglement
 
@@ -68,7 +68,7 @@ De PBP bestaat voor de winnaar uit:
 
 Alle genomineerden ontvangen een oorkonde.
 
-\(\*)  Het bestuur bepaalt per editie van de PBP de hoogte van het geldbedrag.
+(\*)  Het bestuur bepaalt per editie van de PBP de hoogte van het geldbedrag.
 
 **Artikel 4. Voorwaarden aan de prijs verbonden**
 
