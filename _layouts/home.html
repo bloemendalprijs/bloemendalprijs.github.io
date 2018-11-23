@@ -2,7 +2,6 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-3 mb-4">
-      <h3>Nieuws</h3>
       {% assign latest = site.posts[0] %}
       <h5>{{ latest.title }}</h5>
       <p>{{ latest.excerpt | strip_html }}</p>
@@ -20,12 +19,12 @@
       {{ content }}
     </div>
     <div class="col-lg-3 mb-4">
-        <div class="list-group list-group-flush">
-          {% assign winners = site.winners | sort: 'year' | reverse %}
-          {% for winner in winners %}
-          <a href="{{ winner.url | relative_url }}" class="list-group-item list-group-item-action">{{ winner.year }} &mdash; {{ winner.title }}</a>
-          {% endfor %}
-        </div>
+      <div class="list-group list-group-flush">
+        {% assign winners = site.winners | sort: 'year' | reverse %}
+        {% for winner in winners %}
+        <a href="{{ winner.url | relative_url }}" class="list-group-item list-group-item-action">{{ winner.year }} &mdash; {{ winner.title }}</a>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>
