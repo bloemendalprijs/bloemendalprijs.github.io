@@ -2,9 +2,6 @@
 title: De Prijs
 background_image: "/assets/img/header-bg-prize.jpg"
 layout: page
-photos:
-- image: "/uploads/kunstwerk_0.jpg"
-  txt: Speech Trumpet
 ---
 
 In december 2018 zal de Philip Bloemendal Prijs voor de 9e maal worden uitgereikt aan een jong presentatietalent.
@@ -14,7 +11,9 @@ De winnaar ontvangt een geldbedrag van 3500 euro, te besteden aan een studie- of
 Kandidaten dienen:
 
 * via de elektronische en andere beeld- en geluiddragende media effectieve verbale communicatie tot stand te brengen, daaronder mede begrepen een zorgvuldig en doelmatig gebruik van de Nederlandse taal;
+
 * maximaal 30 jaar te zijn op 31 december van het jaar waarin de prijs wordt uitgereikt;
+
 * ten minste 1 jaar werkzaam te zijn op het gebied van journalistieke informatieve programma's (nieuwsberichten, actualiteiten en achtergrondnieuws etc.) via audiovisuele media in Nederland.
 
 Voor overige voorwaarden zie [reglement](#reglement)
@@ -24,14 +23,16 @@ Voor overige voorwaarden zie [reglement](#reglement)
 Kwaliteit van aankomend talent wordt door een vakjury beoordeeld op onder meer de volgende onderdelen:
 
 * het effectief overdragen van gesproken teksten in de Nederlandse taal van nieuwsberichten, actualiteiten, achtergrondnieuws en bij documentaire programma’s;
+
 * het zorgvuldig en doelmatig gebruik van de Nederlandse taal;
+
 * stem, spraak, formulering en aspecten van persoonlijke presentatie.
 
 In 2018 bestaat de vakjury uit voorzitter Jan Westerhof (voormalig directeur Radio NPO), Suzanne Bosman (Radio1, EenVandaag), Sofie van den Enk (KRO, winnaar Philip Bloemendal Prijs 2008), Antoin Peeters (Presentator RTL Nieuws) en Eva Cleven (winnaar Philip Bloemendal Prijs 2016).
 
 ### Speech Trumpet
 
-Van 2002 tot en met 2012 vormde het kunstwerk Speech Trumpet (zie foto) onderdeel van de prijs. De in Zuid-Afrika geboren en woonachtige kunstenares Elmarie van der Merwe (1964) is in 2002 gevraagd het kunstwerk te maken voor de winnaar van de Philip Bloemendal Prijs. Elmarie is Cum Laude geslaagd aan de afdeling Glas van de Gerrit Rietveld Academie in Amsterdam. Voordien studeerde zij in Praag en Zuid Afrika. Thema’s in haar werk zijn vooral geluid en communicatie die zij uitwerkt in transparant glas. Onderwerpen en materiaalkeuze sloten perfect aan bij de doelstellingen van de Philip Bloemendal stimuleringsprijs voor jonge talentvolle presentatoren. Met ingang van 2014 vervalt dit kunstwerk als onderdeel van de prijs.
+Van 2002 tot en met 2012 vormde het kunstwerk Speech Trumpet  onderdeel van de prijs. De in Zuid-Afrika geboren en woonachtige kunstenares Elmarie van der Merwe (1964) is in 2002 gevraagd het kunstwerk te maken voor de winnaar van de Philip Bloemendal Prijs. Elmarie is Cum Laude geslaagd aan de afdeling Glas van de Gerrit Rietveld Academie in Amsterdam. Voordien studeerde zij in Praag en Zuid Afrika. Thema’s in haar werk zijn vooral geluid en communicatie die zij uitwerkt in transparant glas. Onderwerpen en materiaalkeuze sloten perfect aan bij de doelstellingen van de Philip Bloemendal stimuleringsprijs voor jonge talentvolle presentatoren. Met ingang van 2014 vervalt dit kunstwerk als onderdeel van de prijs.
 
 ### Reglement
 
@@ -67,7 +68,7 @@ De PBP bestaat voor de winnaar uit:
 
 Alle genomineerden ontvangen een oorkonde.
 
-(\*)  Het bestuur bepaalt per editie van de PBP de hoogte van het geldbedrag.
+\(\*)  Het bestuur bepaalt per editie van de PBP de hoogte van het geldbedrag.
 
 **Artikel 4. Voorwaarden aan de prijs verbonden**
 
@@ -95,23 +96,23 @@ Kandidaten dienen:
 
 **Artikel 6. Aanmeldingsprocedure**
 
-1. Kandidaten kunnen zichzelf aanmelden maar ook door derden voorgedragen worden (bijvoorbeeld: door landelijke, regionale of lokale omroeporganisaties, door de kijker/luisteraar, de jury enz.)
+ 1. Kandidaten kunnen zichzelf aanmelden maar ook door derden voorgedragen worden (bijvoorbeeld: door landelijke, regionale of lokale omroeporganisaties, door de kijker/luisteraar, de jury enz.)
 
-2. Indien een kandidaat door derden wordt voorgedragen zal van hem/haar toestemming voor de kandidaatstelling verkregen moeten worden.
+ 2. Indien een kandidaat door derden wordt voorgedragen zal van hem/haar toestemming voor de kandidaatstelling verkregen moeten worden.
 
-3. Een kandidaat die zichzelf aanmeldt dient dit af te stemmen met zijn/haar werkgever/opdrachtgever.
+ 3. Een kandidaat die zichzelf aanmeldt dient dit af te stemmen met zijn/haar werkgever/opdrachtgever.
 
-4. De werkgever van de kandidaat verplicht zich ertoe de kandidaat in staat te stellen de opleiding in het kader van de Bloemendal prijs te volgen in het geval de kandidaat tot winnaar wordt verkozen.
+ 4. De werkgever van de kandidaat verplicht zich ertoe de kandidaat in staat te stellen de opleiding in het kader van de Bloemendal prijs te volgen in het geval de kandidaat tot winnaar wordt verkozen.
 
-5. Een aanmelding moet voorzien zijn van een schriftelijke toelichting waarop vermeld: naam, adres, woonplaats, leeftijd, aantal jaren in het vakgebied werkzaam en een beknopte motivatie voor deelneming.
+ 5. Een aanmelding moet voorzien zijn van een schriftelijke toelichting waarop vermeld: naam, adres, woonplaats, leeftijd, aantal jaren in het vakgebied werkzaam en een beknopte motivatie voor deelneming.
 
-6. Een kandidaat levert een opname in met een lengte tussen 2 minuten minimaal en 10 minuten maximaal. Een compilatie is toegestaan. Technische gegevens in overleg met het secretariaat.
+ 6. Een kandidaat levert een opname in met een lengte tussen 2 minuten minimaal en 10 minuten maximaal. Een compilatie is toegestaan. Technische gegevens in overleg met het secretariaat.
 
-7. Een inzending dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending.
+ 7. Een inzending dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending.
 
-8. Een aanmelding kan geschieden in de periode die door het bestuur van het PBP in de media wordt bekendgemaakt, in principe minimaal drie maanden voor de datum van de prijsuitreiking.
+ 8. Een aanmelding kan geschieden in de periode die door het bestuur van het PBP in de media wordt bekendgemaakt, in principe minimaal drie maanden voor de datum van de prijsuitreiking.
 
-9. De aanmeldingstermijn sluit minimaal 21 dagen voorafgaand aan het eerste juryberaad.
+ 9. De aanmeldingstermijn sluit minimaal 21 dagen voorafgaand aan het eerste juryberaad.
 
 10. Aanmeldingen richten aan: Philip Bloemendal Prijs, p/a  Nederlands Instituut voor Beeld en Geluid, Directiesecretariaat. Postbus 1060, 1200 BB Hilversum; Media Parkboulevard 1, 1217 WE Hilversum. Tel.035.6775555. e-mail: [bloemendalprijs@beeldengeluid.nl](mailto:bloemendalprijs@beeldengeluid.nl)
 
