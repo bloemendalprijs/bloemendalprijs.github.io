@@ -1,6 +1,9 @@
 ---
 title: De Prijs
 background_image: "/assets/img/header-bg-prize.jpg"
+photos:
+- image: "/uploads/genomineerden_pbp_2016.jpg"
+  txt: Prijs en oorkondes
 layout: page
 ---
 

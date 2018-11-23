@@ -3,7 +3,7 @@ title: De Stichting
 background_image: "/assets/img/header-bg-fund.jpg"
 photos:
 - image: "/uploads/1.%20Logo%20PBF%20kleur.JPG"
-  txt: 'Origineel logo Stichting Philip Bloemendal Fonds'
+  txt: Origineel logo Stichting Philip Bloemendal Fonds
 layout: page
 ---
 
