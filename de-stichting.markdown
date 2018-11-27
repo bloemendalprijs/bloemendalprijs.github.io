@@ -35,7 +35,7 @@ Balans en staat van baten en lasten:
 * [2015-2016](/uploads/Financieeljaarverslag2015-2016PBP.pdf)
 
 Telefoon: 035 - 6775555  
-E-mail: jleijssen@beeldengeluid.nl 
+E-mail: [jleijssen@beeldengeluid.nl ](http://https:/jleijssenbeeldengeluid.nl) 
 
 ## Bestuur
 
