@@ -3,6 +3,7 @@ title: Saskia Houttuin bekroond tot grootste journalistieke presentatietalent
 date: 2018-12-13 11:01:00 +01:00
 categories:
 - nieuws
+background_image: "/assets/img/header-bg-news.jpg"
 ---
 
 Hilversum, 13 december 2018 – De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die vanmiddag voor de negende keer werd uitgereikt, is gewonnen door Saskia Houttuin. In het Nederlands Instituut voor Beeld en Geluid ontving zij uit handen van cabaretier en woordkunstenaar Wim Daniëls, een cheque ter waarde van 3.500 euro te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied. 
