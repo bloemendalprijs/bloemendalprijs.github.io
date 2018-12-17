@@ -27,7 +27,7 @@ defaults:
     type: posts
   values:
     layout: page
-    permalink: "/artikel/:title/"
+    permalink: "/artikel/:title"
     background_image: "/assets/img/header-bg-news.jpg"
     photos:
     - image: 
