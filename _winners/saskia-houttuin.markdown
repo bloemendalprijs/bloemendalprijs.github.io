@@ -5,9 +5,9 @@ categories:
 - Winnaars
 year: 2018
 photos:
-- image: "/uploads/Philip%20Bloemendal%20prijs%2009-c98535.jpg"
+- image: "/uploads/Philip%20Bloemendal%20prijs%2009.jpg"
   txt: 
-- image: "/uploads/Philip%20Bloemendal%20prijs%2004-a7af8b.jpg"
+- image: "/uploads/Philip%20Bloemendal%20prijs%2004.jpg"
   txt: 
 ---
 
