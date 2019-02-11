@@ -37,7 +37,7 @@ Balans en staat van baten en lasten:
 
 Verantwoording:
 * [Jaarverslag 2017-2018](/uploads/Jaarverslag2017_2018.pdf)
-* [Doelstellingen en beleid Philip Bloemendal Prijs (/uploads/DOELSTELLING%20en%20BELEID%20Philip%20Bloemendal%20Prijs%20(PBP).pdf)
+
 
 Telefoon: 035 - 6775555  
 E-mail: [jleijssen@beeldengeluid.nl](mailto:jleijssen@beeldengeluid.nl)
