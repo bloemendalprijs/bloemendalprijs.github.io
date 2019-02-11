@@ -5,9 +5,6 @@ collections:
   posts:
     title: Nieuws
     output: true
-  stichting:
-    title: Stichting
-    output: true
   uploads:
     title: Uploads
     output: true
