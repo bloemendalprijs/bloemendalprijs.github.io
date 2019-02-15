@@ -53,3 +53,5 @@ De gemeenteraadsverkiezingen zijn een lastig onderwerp voor landelijke media, in
 Het interview met Geert Wilders smaakt naar meer. Het interview is voor Hart van Nederland kort en strak gemonteerd, je zou Charlotte iets meer ruimte gunnen om hier een gesprek neer te zetten.
 
 De jury is van mening dat Charlotte als politiek verslaggever geen eenvoudige opdracht heeft binnen de programmaformule en met de doelgroep van Hart van Nederland, maar dat ze dat op geheel eigenwijze heel goed doet.
+
+{% include embed.html src='https://vimeo.com/317473948' ratio='16by9' %}
