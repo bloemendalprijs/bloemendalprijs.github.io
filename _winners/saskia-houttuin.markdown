@@ -10,8 +10,7 @@ photos:
 - image: "/uploads/Philip%20Bloemendal%20prijs%2004.jpg"
   txt: 
 videos:
-- <iframe src="https://player.vimeo.com/video/317473948" width="640" height="360"
-  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+- 
 ---
 
 **De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die op 13 december 2018 voor de negen keer werd uitgereikt, is gewonnen door RTL-correspondent Saskia Houttuin. In het Nederlands Instituut voor Beeld en Geluid ontving zij uit handen van cabaretier en woordkunstenaar Wim Daniëls een cheque ter waarde van 3.500 euro, te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.**
