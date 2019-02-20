@@ -10,7 +10,7 @@ photos:
 - image: "/uploads/Philip%20Bloemendal%20prijs%2004.jpg"
   txt: 
 videos:
-- https://player.vimeo.com/video/317473948
+- https://player.vimeo.com/video/317473948?title=0&byline=0&portrait=0
 ---
 
 **De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die op 13 december 2018 voor de negen keer werd uitgereikt, is gewonnen door RTL-correspondent Saskia Houttuin. In het Nederlands Instituut voor Beeld en Geluid ontving zij uit handen van cabaretier en woordkunstenaar Wim Daniëls een cheque ter waarde van 3.500 euro, te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.**
@@ -53,5 +53,3 @@ De gemeenteraadsverkiezingen zijn een lastig onderwerp voor landelijke media, in
 Het interview met Geert Wilders smaakt naar meer. Het interview is voor Hart van Nederland kort en strak gemonteerd, je zou Charlotte iets meer ruimte gunnen om hier een gesprek neer te zetten.
 
 De jury is van mening dat Charlotte als politiek verslaggever geen eenvoudige opdracht heeft binnen de programmaformule en met de doelgroep van Hart van Nederland, maar dat ze dat op geheel eigenwijze heel goed doet.
-
-{% include embed.html src='https://player.vimeo.com/video/317473948' ratio='16by9' %}
