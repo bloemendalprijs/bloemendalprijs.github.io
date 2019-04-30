@@ -56,9 +56,9 @@ Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis 
 ## Comité van Aanbeveling
 
 * Sacha de Boer (fotograaf, journalist)
+* Pieter Broertjes (Burgemeester Hilversum) 
 * Henk van Gelder (journalist, voormalig juryvoorzitter Philip Bloemendal Fonds)
 * Guus Hiddink (voetbalcoach)
 * Jan Mulder (columnist)
 * Professor Mr. Pieter van Vollenhoven
 * Ed van Westerloo (voormalig bestuursvoorzitter Philip Bloemendal Fonds)
-* Pieter Broertjes (Burgemeester Hilversum) 
