@@ -2,7 +2,7 @@
 title: De Prijs
 background_image: "/assets/img/header-bg-prize.jpg"
 photos:
-- image: "/uploads/genomineerden_pbp_2016.jpg"
+- image: "/uploads/Philip%20Bloemendal%20prijs%2009.jpg"
   txt: Prijs en oorkondes
 layout: page
 ---
