@@ -7,7 +7,7 @@ photos:
 layout: page
 ---
 
-In december 2018 zal de Philip Bloemendal Prijs voor de 9e maal worden uitgereikt aan een jong presentatietalent.
+Op 10 december 2020 wordt de Philip Bloemendal Prijs voor de 10e maal uitgereikt aan een jong presentatietalent.
 
 De winnaar ontvangt een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen en een oorkonde. Genomineerden ontvangen eveneens een oorkonde.
 
