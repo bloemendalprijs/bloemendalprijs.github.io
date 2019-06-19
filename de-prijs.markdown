@@ -7,7 +7,7 @@ photos:
 layout: page
 ---
 
-Op donderdag 10 december 2020 wordt de Philip Bloemendal Prijs voor de 10e maal uitgereikt aan een jong presentatietalent.
+Op donderdag 10 december 2020 wordt de Philip Bloemendal Prijs voor de 10e maal uitgereikt aan een jong journalistiek presentatietalent.
 
 De winnaar ontvangt een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen en een oorkonde. Genomineerden ontvangen eveneens een oorkonde.
 
@@ -31,7 +31,8 @@ Kwaliteit van aankomend talent wordt door een vakjury beoordeeld op onder meer d
 
 * stem, spraak, formulering en aspecten van persoonlijke presentatie.
 
-In 2018 bestaat de vakjury uit voorzitter Jan Westerhof (voormalig directeur Radio NPO), Suzanne Bosman (Radio1, EenVandaag), Sofie van den Enk (KRO, winnaar Philip Bloemendal Prijs 2008), Antoin Peeters (Presentator RTL Nieuws) en Eva Cleven (winnaar Philip Bloemendal Prijs 2016).
+In 2018 bestond de vakjury uit voorzitter Jan Westerhof (voormalig directeur Radio NPO), Suzanne Bosman (Radio1, EenVandaag), Sofie van den Enk (KRO, winnaar Philip Bloemendal Prijs 2008), Antoin Peeters (Presentator RTL Nieuws) en Eva Cleven (winnaar Philip Bloemendal Prijs 2016).
+De samenstelling van de jury voor 2020 wordt later bekendgemaakt.
 
 ### Speech Trumpet
 
