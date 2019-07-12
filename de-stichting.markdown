@@ -61,4 +61,4 @@ Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis 
 * Guus Hiddink (voetbalcoach)
 * Jan Mulder (columnist)
 * Professor Mr. Pieter van Vollenhoven
-* Ed van Westerloo (voormalig bestuursvoorzitter Philip Bloemendal Fonds)
+
