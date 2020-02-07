@@ -33,10 +33,12 @@ Balans en staat van baten en lasten:
 
 * [2013-2014](/uploads/Financieeljaarverslag2013-2014PBP.pdf)
 * [2015-2016](/uploads/Financieeljaarverslag2015-2016PBP.pdf)
-* [2017-2018](/uploads/Ph%20Bloemendal%202017%20-%202018.pdf)
+* [2017-2018]([/uploads/Ph%20Bloemendal%202017%20-%202018.pdf]
+* [2018-2019](/uploads/Financieel%20jaarverslag%20Philip%20Bloemendal%201819.pdf)
 
 Verantwoording:
 * [Jaarverslag 2017-2018](/uploads/Jaarverslag2017_2018.pdf)
+* [Jaarverslag 2018-2019](/uploads/Jaarverslag%20Philip%20Bloemendal%201819.pdf)
 
 
 Telefoon: 035 - 6775555  
