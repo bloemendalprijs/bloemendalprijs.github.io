@@ -2,14 +2,14 @@
 title: Aanmelden
 background_image: "/assets/img/header-bg-prize.jpg"
 videos:
-- https://www.youtube-nocookie.com/embed/L7si2CCh8DY?rel=0&amp;showinfo=0
+- 
 layout: page
 ---
 
-* De eerstvolgende editie van de Philip Bloemendal Prijs (PBP) zal plaatsvinden op 13 december 2018.
-* Kandidaten kunnen zich aanmelden van 4 juni 2018 tot en met 8 oktober 2018, via onderstaand formulier.
+* De eerstvolgende editie van de Philip Bloemendal Prijs (PBP) zal plaatsvinden op 10 december 2020.
+* Kandidaten kunnen zich aanmelden van 25 juni 2020 tot en met 9 oktober 2020, via onderstaand formulier.
 * Kandidaten dienen maximaal 30 jaar te zijn op 31 december van het jaar waarin de prijs wordt uitgereikt.
-* Kandidaten kunnen zichzelf aanmelden maar ook door derden voorgedragen worden, bijvoorbeeld door landelijke, regionale of lokale omroeporganisaties of de jury van de PBP.
+* Kandidaten kunnen zichzelf aanmelden maar ook door derden voorgedragen worden, bijvoorbeeld door landelijke, regionale of lokale omroeporganisaties of de jury van de Philip Bloemendal Prijs.
 * Indien een kandidaat door derden wordt voorgedragen zal van hem of haar toestemming voor de kandidaatstelling verkregen moeten worden.
 * Een kandidaat die zichzelf aanmeldt dient dit af te stemmen met zijn/haar werkgever/opdrachtgever.
 * Een kandidaat kan maximaal aan twee opeenvolgende edities van de prijs meedoen.
