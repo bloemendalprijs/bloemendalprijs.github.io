@@ -2,7 +2,7 @@
 title: Aanmelden
 background_image: "/assets/img/header-bg-prize.jpg"
 videos:
-- https://vimeo.com/431741550
+- https://player.vimeo.com/video/431741550?title=0&amp;byline=0&amp;portrait=0
 layout: page
 ---
 
