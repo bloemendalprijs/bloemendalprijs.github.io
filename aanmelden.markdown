@@ -2,7 +2,7 @@
 title: Aanmelden
 background_image: "/assets/img/header-bg-prize.jpg"
 videos:
-- https://vimeo.com/beeldengeluid/review/431741550/0fa3c52151
+- https://vimeo.com/431741550
 layout: page
 ---
 
