@@ -21,5 +21,5 @@ Een kandidaat levert een opname in van het programma met zijn of haar presentati
 
 
 ### Kandidaat
- 
-{% include formulier.html %}
+
+{% include aanmelden_button.html %}
