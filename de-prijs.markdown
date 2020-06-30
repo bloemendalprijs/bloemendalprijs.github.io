@@ -32,7 +32,6 @@ Kwaliteit van aankomend talent wordt door een vakjury beoordeeld op onder meer d
 * stem, spraak, formulering en aspecten van persoonlijke presentatie.
 
 In 2020 bestaat de vakjury uit voorzitter Jan Westerhof (voormalig directeur Radio NPO), Antoin Peeters (Presentator RTL Nieuws), Eva Cleven (winnaar Philip Bloemendal Prijs 2016), Saskia Houttuin (winnaar Philip Bloemendal Prijs 2018), Winfried Baijens (Presentator NOS Nieuws) en Evelien de Bruijn (radio en tv presentatrice).
-De samenstelling van de jury voor 2020 wordt later bekendgemaakt.
 
 ### Speech Trumpet
 
