@@ -17,6 +17,4 @@ Op donderdag 10 december 2020 wordt de Philip Bloemendal prijs voor de tiende ke
 
 Voeg een video toe van de presentatie van de kandidaat ter ondersteuning van de aanmelding. Deze video heeft bij voorkeur een totale lengte van minimaal 10 minuten en maximaal 30 minuten. Een compilatie is toegestaan. Het ingezonden fragment/programma dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending.
 
-### Aanmelden
-
 {% include aanmelden_button.html %}
