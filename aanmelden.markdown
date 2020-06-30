@@ -13,7 +13,7 @@ Op donderdag 10 december 2020 wordt de Philip Bloemendal prijs voor de tiende ke
 * Indien een kandidaat door derden wordt voorgedragen zal van hem of haar toestemming voor de kandidaatstelling verkregen moeten worden.
 * Een kandidaat die zichzelf aanmeldt dient dit af te stemmen met zijn/haar werkgever/opdrachtgever.
 * Een kandidaat kan maximaal aan twee opeenvolgende edities van de prijs meedoen.
-* Het volledige reglement is beschikbaar op de website. Zie [De Prijs > Reglement](/de-prijs#reglement)
+* Het volledige reglement is hier te lezen: [De Prijs > Reglement](/de-prijs#reglement)
 
 Voeg een video toe van de presentatie van de kandidaat ter ondersteuning van de aanmelding. Deze video heeft bij voorkeur een totale lengte van minimaal 10 minuten en maximaal 30 minuten. Een compilatie is toegestaan. Het ingezonden fragment/programma dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending.
 
