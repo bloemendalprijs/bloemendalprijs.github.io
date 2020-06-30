@@ -6,7 +6,7 @@ videos:
 layout: home
 ---
 
-{% include embed.html "https://player.vimeo.com/video/431741550" 'ratio='16by9' %}
+{% include embed.html "https://vimeo.com/431741550" 'ratio='16by9' %}
 
 ---
 
