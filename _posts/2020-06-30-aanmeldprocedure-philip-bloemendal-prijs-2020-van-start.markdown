@@ -1,6 +1,8 @@
 ---
 title: Aanmeldprocedure Philip Bloemendal Prijs 2020 van start 
 date: 2020-06-30 13:59:00 +02:00
+categories:
+- nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo_orig.png"
