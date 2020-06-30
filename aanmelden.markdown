@@ -6,20 +6,18 @@ videos:
 layout: page
 ---
 
-* De eerstvolgende editie van de Philip Bloemendal Prijs (PBP) zal plaatsvinden op 10 december 2020.
-* Kandidaten kunnen zich aanmelden van 25 juni 2020 tot en met 9 oktober 2020, via onderstaand formulier.
+Op donderdag 10 december 2020 wordt de Philip Bloemendal prijs voor de tiende keer bij Beeld en Geluid uitgereikt aan jong journalistiek presentatietalent uit de media. Van 1 juli tot en met 9 oktober kan talent opgeven of worden voorgedragen. De winnaar ontvangt een cheque ter waarde van 3.500 euro, te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.
+
+**Voorwaarden voor deelname**
 * Kandidaten dienen maximaal 30 jaar te zijn op 31 december van het jaar waarin de prijs wordt uitgereikt.
-* Kandidaten kunnen zichzelf aanmelden maar ook door derden voorgedragen worden, bijvoorbeeld door landelijke, regionale of lokale omroeporganisaties of de jury van de Philip Bloemendal Prijs.
 * Indien een kandidaat door derden wordt voorgedragen zal van hem of haar toestemming voor de kandidaatstelling verkregen moeten worden.
 * Een kandidaat die zichzelf aanmeldt dient dit af te stemmen met zijn/haar werkgever/opdrachtgever.
 * Een kandidaat kan maximaal aan twee opeenvolgende edities van de prijs meedoen.
-* Een aanmelding moet voorzien zijn van een schriftelijke toelichting waarop vermeld: naam en adres, e-mailadres en telefoonnummer, leeftijd, programma en werkgever/opdrachtgever, aantal jaren in het vakgebied werkzaam en een beknopte motivatie voor deelneming.
-* Het in te zenden programmamateriaal dient digitaal te worden aangeleverd als .mov en/of als mpeg4, via wetransfer t.a.v. [secretariaat@beeldengeluid.nl](mailto:secretariaat@beeldengeluid.nl) o.v.v. de naam van de kandidaat en de programmagegevens. 
-* Het ingezonden fragment/programma dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending (huidige kalenderjaar). Inzendingen blijven in principe eigendom van de Stichting. Uitzonderingen in overleg met het bestuur.
 * Het volledige reglement is beschikbaar op de website. Zie [De Prijs > Reglement](/de-prijs#reglement)
-Een kandidaat levert een opname in van het programma met zijn of haar presentatie ter ondersteuning van de aanmelding, met een totale lengte van bij voorkeur minimaal 10 minuten en maximaal 30 minuten. Een compilatie is toegestaan.
 
+**Aanmelden**
+Voeg een video toe van de presentatie van de kandidaat ter ondersteuning van de aanmelding. Deze video heeft bij voorkeur een totale lengte van minimaal 10 minuten en maximaal 30 minuten. Een compilatie is toegestaan. Het ingezonden fragment/programma dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending.
 
-### Kandidaat
+### Aanmelden
 
 {% include aanmelden_button.html %}
