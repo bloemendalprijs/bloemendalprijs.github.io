@@ -5,7 +5,7 @@ categories:
 - nieuws
 background_image: "/assets/img/header-bg-news.jpg"
 photos:
-- image: "/uploads/pbplogo_orig.png"
+- image: "/uploads/Logo%20PBP.jpg"
   txt: Philip Bloemendal Prijs
 ---
 
