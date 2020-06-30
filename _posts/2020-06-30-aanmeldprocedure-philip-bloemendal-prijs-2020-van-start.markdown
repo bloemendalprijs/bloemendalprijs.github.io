@@ -1,6 +1,10 @@
 ---
 title: Aanmeldprocedure Philip Bloemendal Prijs 2020 van start 
 date: 2020-06-30 13:59:00 +02:00
+background_image: "/assets/img/header-bg-news.jpg"
+photos:
+- image: "/uploads/pbplogo_orig.png"
+  txt: Philip Bloemendal Prijs
 ---
 
 De aanmeldprocedure voor de Philip Bloemendal Prijs 2020 is gestart. Van 1 juli tot en met 9 oktober kan jong, journalistiek presentatietalent uit de media zich opgeven of worden voorgedragen. De prijs viert dit jaar zijn jubileum want hij wordt op 10 december 2020 voor de tiende keer uitgereikt bij Beeld en Geluid. 
