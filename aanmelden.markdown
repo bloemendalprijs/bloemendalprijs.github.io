@@ -15,6 +15,5 @@ Op donderdag 10 december 2020 wordt de Philip Bloemendal Prijs voor de tiende ke
 * Een kandidaat kan maximaal aan twee opeenvolgende edities van de prijs meedoen.
 * Het volledige reglement is hier te lezen: [De Prijs > Reglement](/de-prijs#reglement)
 
-Voeg een video toe van de presentatie van de kandidaat ter ondersteuning van de aanmelding. Deze video heeft bij voorkeur een totale lengte van minimaal 10 minuten en maximaal 30 minuten. Een compilatie is toegestaan. Het ingezonden fragment/programma dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending.
-
+Voeg een video toe van jouw presentatie of de presentatie van de kandidaat ter ondersteuning van de aanmelding. Deze video heeft bij voorkeur een totale lengte van minimaal 10 minuten en maximaal 30 minuten. Een compilatie is toegestaan. Het ingezonden fragment/programma dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending. Aanmeldingen zonder video of link naar Vimeo of YouTube worden niet in behandeling genomen.
 {% include aanmelden_button.html %}
