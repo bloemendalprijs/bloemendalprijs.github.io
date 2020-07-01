@@ -23,4 +23,4 @@ Eerdere winnaars waren Brecht van Hulten (2002), Lucella Carasso (2004), Wouter 
 
 De jury voor de Philip Bloemendal Prijs 2020 bestaat uit Jan Westerhof (voorzitter), Winfried Baijens, Antoin Peeters, Saskia Houttuin, Eva Cleven en Evelien de Bruijn.
 
-Via deze link kunnen kandidaten worden voorgedragen of zichzelf aanmelden: www.beeldengeluid.nl/aanmelden-philip-bloemendal-prijs-2020.  
+Via deze link kunnen kandidaten worden voorgedragen of zichzelf aanmelden: [www.beeldengeluid.nl/aanmelden-philip-bloemendal-prijs-2020](www.beeldengeluid.nl/aanmelden-philip-bloemendal-prijs-2020).  
