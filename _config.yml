@@ -66,4 +66,5 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
-include: [".well-known"]
+include:
+- ".well-known"
