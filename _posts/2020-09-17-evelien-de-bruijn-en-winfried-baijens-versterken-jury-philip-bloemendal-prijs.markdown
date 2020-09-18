@@ -7,7 +7,7 @@ photos:
 
 De jury van de Philip Bloemendal Prijs heeft twee nieuwe leden. Radio en televisie presentatrice Evelien de Bruijn en NOS presentator Winfried Baijens zullen mede bepalen wie het jonge journalistieke presentatietalent in de media van 2020 wordt. Op 10 december 2020 wordt de tweejaarlijkse prijs voor de tiende keer uitgereikt bij Beeld en Geluid. Tot en met 9 oktober kan jong, journalistiek presentatietalent zich opgeven of worden voorgedragen. 
 
-**Nieuwe leden vakjury **
+**Nieuwe leden vakjury**
 
 Evelien de Bruijn startte haar carrière bij 3FM. Vervolgens werkte ze bij  RTVUtrecht en Hart van Nederland. Als nieuwslezer is ze elke ochtend te horen bij ‘Ekdom in de Morgen’. Onlangs maakte ze de podcast ‘Uit de podcast’ over de coming out van haar zoon en Bekende Nederlanders. 
 
