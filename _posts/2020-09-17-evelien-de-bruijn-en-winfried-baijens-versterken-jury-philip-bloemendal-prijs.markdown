@@ -25,4 +25,4 @@ Eerdere winnaars zijn Brecht van Hulten (2002), Lucella Carasso (2004), Wouter Z
 
 **Talent aanmelden**
 
-Tot en met 9 oktober kan jong, journalistiek presentatietalent zich opgeven of worden voorgedragen. Meer informatie, voordragen of aanmelden: [https://www.bloemendal.info](www.bloemendal.info)
+Tot en met 9 oktober kan jong, journalistiek presentatietalent zich opgeven of worden voorgedragen. Meer informatie, voordragen of aanmelden: [www.bloemendal.info](https://www.bloemendal.info)
