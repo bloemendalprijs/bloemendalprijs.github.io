@@ -117,7 +117,7 @@ Kandidaten dienen:
 
  9. De aanmeldingstermijn sluit minimaal 21 dagen voorafgaand aan het eerste juryberaad.
 
-10. Aanmeldingen richten aan: Philip Bloemendal Prijs, p/a  Nederlands Instituut voor Beeld en Geluid, Directiesecretariaat. Postbus 1060, 1200 BB Hilversum; Media Parkboulevard 1, 1217 WE Hilversum. Tel.035.6775555. e-mail: [bloemendalprijs@beeldengeluid.nl](mailto:bloemendalprijs@beeldengeluid.nl)
+10. Aanmeldingen richten aan: Philip Bloemendal Prijs, p/a  Nederlands Instituut voor Beeld en Geluid, Directiesecretariaat. Postbus 1060, 1200 BB Hilversum; Media Parkboulevard 1, 1217 WE Hilversum. Tel.035.6775555. e-mail: [jleijssen@beeldengeluid.nl](mailto:jleijssen@beeldengeluid.nl)
 
 11. Inzendingen worden niet geretourneerd.
 
