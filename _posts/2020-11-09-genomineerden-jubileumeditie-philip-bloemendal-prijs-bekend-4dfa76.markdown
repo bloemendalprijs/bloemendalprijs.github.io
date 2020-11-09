@@ -2,6 +2,8 @@
 title: Genomineerden jubileumeditie Philip Bloemendal Prijs bekend
 date: 2020-11-09 14:51:00 +01:00
 photos:
+- image: "/uploads/Genomineerden%20Philip%20Bloemendal%20Prijs%202020-1a6f9d.jpg"
+  txt: 
 - image: "/uploads/Ruben%20Leter.jpg"
   txt: 
 - image: "/uploads/Sid%20van%20der%20Linden.JPG"
