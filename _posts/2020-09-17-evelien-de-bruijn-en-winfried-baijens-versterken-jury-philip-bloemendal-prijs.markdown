@@ -5,7 +5,7 @@ photos:
 - image: "/uploads/Evelien%20de%20Bruijn%20en%20Winfried%20Baijens.jpg"
 ---
 
-De jury van de Philip Bloemendal Prijs heeft twee nieuwe leden. Radio en televisie presentatrice Evelien de Bruijn en NOS presentator Winfried Baijens zullen mede bepalen wie het jonge journalistieke presentatietalent in de media van 2020 wordt. Op 10 december 2020 wordt de tweejaarlijkse prijs voor de tiende keer uitgereikt bij Beeld en Geluid. Tot en met 9 oktober kan jong, journalistiek presentatietalent zich opgeven of worden voorgedragen. 
+De jury van de Philip Bloemendal Prijs heeft twee nieuwe leden. Radio en televisie presentatrice Evelien de Bruijn en NOS presentator Winfried Baijens zullen mede bepalen wie het jonge journalistieke presentatietalent in de media van 2020 wordt. Op 9 december 2020 wordt de tweejaarlijkse prijs voor de tiende keer uitgereikt bij Beeld en Geluid. Tot en met 9 oktober kan jong, journalistiek presentatietalent zich opgeven of worden voorgedragen. 
 
 **Nieuwe leden vakjury**
 
