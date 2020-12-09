@@ -1,6 +1,6 @@
 ---
 title: Wouter Zwart
-position: 5
+position: 7
 layout: page
 year: 2006
 background_image: "/assets/img/header-bg-winners.jpg"

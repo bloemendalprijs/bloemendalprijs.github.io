@@ -1,6 +1,6 @@
 ---
 title: Luuk Ikink
-position: 2
+position: 4
 layout: page
 year: 2012
 background_image: "/assets/img/header-bg-winners.jpg"

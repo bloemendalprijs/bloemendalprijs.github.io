@@ -1,6 +1,6 @@
 ---
 title: Arman Avsaroglu
-position: 1
+position: 3
 layout: page
 year: 2014
 background_image: "/assets/img/header-bg-winners.jpg"
