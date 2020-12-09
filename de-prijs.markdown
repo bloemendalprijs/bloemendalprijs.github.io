@@ -2,7 +2,7 @@
 title: De Prijs
 background_image: "/assets/img/header-bg-prize.jpg"
 photos:
-- image: "/uploads/Philip%20Bloemendal%20prijs%2009.jpg"
+- image: "/uploads/Sosha%20Duysker%20wint%20Philip%20Bloemendal%20Prijs%20Foto%20Paul%20Ridderhof2-101019.jpg"
   txt: Prijs en oorkondes
 layout: page
 ---
