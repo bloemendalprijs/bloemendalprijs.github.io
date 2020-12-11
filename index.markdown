@@ -6,7 +6,7 @@ videos:
 layout: home
 ---
 
-{% include embed.html src="https://player.vimeo.com/video/431741550" ratio="16by9" %}
+![Paul Ridderhof 9dec20 (1358) deel.jpg](/uploads/Paul%20Ridderhof%209dec20%20(1358)%20deel.jpg)
 
 ---
 
