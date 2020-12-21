@@ -6,7 +6,7 @@ videos:
 layout: home
 ---
 
-[Paul Ridderhof 9dec20 (1358) deel.jpg](/uploads/Paul%20Ridderhof%209dec20%20(1358)%20deel.jpg)
+![Paul Ridderhof 9dec20 (1358) deel.jpg](/uploads/Paul%20Ridderhof%209dec20%20(1358)%20deel.jpg)
 
 ---
 
