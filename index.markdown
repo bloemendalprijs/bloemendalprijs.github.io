@@ -6,9 +6,7 @@ videos:
 layout: home
 ---
 
-{% include video.html ratio='4by3' src='https://player.vimeo.com/video/493265341' %}
-
-<iframe src="https://player.vimeo.com/video/493265341" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/493265341" width="600" height="320" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
