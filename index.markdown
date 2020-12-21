@@ -6,8 +6,6 @@ videos:
 layout: home
 ---
 
-![Paul Ridderhof 9dec20 (1358) deel.jpg](/uploads/Paul%20Ridderhof%209dec20%20(1358)%20deel.jpg)
-
 {% include video.html ratio='4by3' src='https://player.vimeo.com/video/493265341' %}
 
 <iframe src="https://player.vimeo.com/video/493265341" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
