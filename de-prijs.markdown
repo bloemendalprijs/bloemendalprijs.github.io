@@ -4,6 +4,8 @@ background_image: "/assets/img/header-bg-prize.jpg"
 photos:
 - image: "/uploads/Sosha%20Duysker%20wint%20Philip%20Bloemendal%20Prijs%20Foto%20Paul%20Ridderhof2-101019.jpg"
   txt: Prijs en oorkondes
+- image: "/uploads/Speech%20Trumpet.jpeg"
+  txt: Speech Trumpet
 layout: page
 ---
 
