@@ -9,8 +9,6 @@ photos:
 layout: page
 ---
 
-Op donderdag 10 december 2020 wordt de Philip Bloemendal Prijs voor de 10e maal uitgereikt aan een jong journalistiek presentatietalent.
-
 De winnaar ontvangt een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen en een oorkonde. Genomineerden ontvangen eveneens een oorkonde.
 
 Kandidaten dienen:
@@ -38,6 +36,8 @@ In 2020 bestaat de vakjury uit voorzitter Jan Westerhof (voormalig directeur Rad
 ### Speech Trumpet
 
 Van 2002 tot en met 2012 vormde het kunstwerk 'Speech Trumpet' onderdeel van de prijs. De in Zuid-Afrika geboren en woonachtige kunstenares Elmarie van der Merwe (1964) is in 2002 gevraagd het kunstwerk te maken voor de winnaar van de Philip Bloemendal Prijs. Elmarie is Cum Laude geslaagd aan de afdeling Glas van de Gerrit Rietveld Academie in Amsterdam. Voordien studeerde zij in Praag en Zuid Afrika. Thema’s in haar werk zijn vooral geluid en communicatie die zij uitwerkt in transparant glas. Onderwerpen en materiaalkeuze sloten perfect aan bij de doelstellingen van de Philip Bloemendal stimuleringsprijs voor jonge talentvolle presentatoren. Met ingang van  2014 verviel dit kunstwerk als onderdeel van de prijs. Ter gelegenheid van de 10e editie van de Philip Bloemendal Prijs, in december 2020, is de Speech Trumpet eenmalig opnieuw door de kunstenares vervaardigd en aan winnaar Sosha Duysker overhandigd.
+
+![Speech Trumpet-ad40a9.jpeg](/uploads/Speech%20Trumpet-ad40a9.jpeg)
 
 ### Reglement
 
