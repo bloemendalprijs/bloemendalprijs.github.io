@@ -48,9 +48,9 @@ E-mail: [jleijssen@beeldengeluid.nl](mailto:jleijssen@beeldengeluid.nl)
 
 Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis en wordt niet financieel beloond. Per januari 2018:
 
-* Mieke Bloemendal-Olman (initiatiefneemster/wrnd. penningmeester)
+* Mieke Bloemendal-Olman (initiatiefneemster)
 * Sonja de Leeuw, voorzitter (hoogleraar Film en Televisie, Universiteit Utrecht)
-* Jennemiek Leijssen, secretaris (corporate communicatemanager Beeld en Geluid)
+* Jennemiek Leijssen, penningmeester en secretaris (corporate communicatiemanager Beeld en Geluid)
 * Rik Rensen (communicatiestrateeg en journalist)
 * Frits (Ritmeester) Spits (radio- en televisiemaker)
 * Taco Rijssemus (CEO IDTV)
