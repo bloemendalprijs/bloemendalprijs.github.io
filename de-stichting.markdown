@@ -41,6 +41,8 @@ Balans en staat van baten en lasten:
 Verantwoording:
 * [Jaarverslag 2017-2018](/uploads/Jaarverslag2017_2018.pdf)
 * [Jaarverslag 2018-2019](/uploads/Jaarverslag%20Philip%20Bloemendal%201819.pdf)
+* [Jaarverslag 2019-2020]
+(/uploads/PBP%20BESTUURSVERSLAG%202020.pdf)
 
 
 Telefoon: 035 - 6775555  
