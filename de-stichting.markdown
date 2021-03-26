@@ -36,7 +36,7 @@ Balans en staat van baten en lasten:
 * [2017-2018](/uploads/Ph%20Bloemendal%202017%20-%202018.pdf)
 * [2018-2019](/uploads/Financieel%20jaarverslag%20Philip%20Bloemendal%201819-5.pdf)
 * [2019-2020]
-https://manage.siteleaf.com/api/v2/sites/5bed470b6b233349b6f62f83/source/_uploads/Jaarcijfers%202020%20Stichting%20Philip%20Bloemendal%20excl.%20bankmutaties%20(1).pdf?download
+(/uploads/Jaarcijfers%202020%20Stichting%20Philip%20Bloemendal%20excl.%20bankmutaties%20(1).pdf)
 
 Verantwoording:
 * [Jaarverslag 2017-2018](/uploads/Jaarverslag2017_2018.pdf)
