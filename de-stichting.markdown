@@ -35,14 +35,14 @@ Balans en staat van baten en lasten:
 * [2015-2016](/uploads/Financieeljaarverslag2015-2016PBP.pdf)
 * [2017-2018](/uploads/Ph%20Bloemendal%202017%20-%202018.pdf)
 * [2018-2019](/uploads/Financieel%20jaarverslag%20Philip%20Bloemendal%201819-5.pdf)
-* [2019-2020]
-(/uploads/Jaarcijfers%202020%20Stichting%20Philip%20Bloemendal%20excl.%20bankmutaties%20(1).pdf)
+* [2019-2020](/uploads/Jaarcijfers%202020%20Stichting%20Philip%20Bloemendal%20excl.%20bankmutaties%20(1).pdf)
+
 
 Verantwoording:
 * [Jaarverslag 2017-2018](/uploads/Jaarverslag2017_2018.pdf)
 * [Jaarverslag 2018-2019](/uploads/Jaarverslag%20Philip%20Bloemendal%201819.pdf)
-* [Jaarverslag 2019-2020](http://uploads/PBP%20BESTUURSVERSLAG%202020.pdf)
-(/uploads/PBP%20BESTUURSVERSLAG%202020.pdf)
+* [Jaarverslag 2019-2020](/uploads/PBP%20BESTUURSVERSLAG%202020.pdf)
+
 
 
 Telefoon: 035 - 6775555  
