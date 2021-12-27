@@ -6,7 +6,7 @@ videos:
 layout: home
 ---
 
-<iframe src="https://player.vimeo.com/video/493265341" width="600" height="320" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+{% include embed.html src="https://player.vimeo.com/video/493265341" ratio="16by9" %}
 
 ---
 
