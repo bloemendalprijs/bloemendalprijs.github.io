@@ -1,4 +1,4 @@
-# De Philip Bloemendal Prijs [![Build Status](https://travis-ci.org/bloemendalprijs/bloemendalprijs.github.io.svg?branch=master)](https://travis-ci.org/bloemendalprijs/bloemendalprijs.github.io)
+# De Philip Bloemendal Prijs
 
 This is the code repository for the website https://www.bloemendal.info
 

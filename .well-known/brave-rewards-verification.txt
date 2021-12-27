@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: bloemendal.info
-Token: 0772390c507439b145c4980ccfd315235c5bd5fecbf979ff49d970b6554e50af
