@@ -5,7 +5,7 @@ photos:
 - image: "/uploads/Logo%20PBP.jpg"
 ---
 
-Op woensdag 9 december wordt de Philip Bloemendal Prijs 2020 live in het NPO Radio 1 programma Stax & Toine uitgereikt. Het radioprogramma wijdt zijn laatste uur, van 15:00 tot 16:00 uur, volledig aan de tiende uitreiking van de prijs en is ook online te volgen via [nporadio1.nl/live](nporadio1.nl/live). 
+Op woensdag 9 december wordt de Philip Bloemendal Prijs 2020 live in het NPO Radio 1 programma Stax & Toine uitgereikt. Het radioprogramma wijdt zijn laatste uur, van 15:00 tot 16:00 uur, volledig aan de tiende uitreiking van de prijs en is ook online te volgen via [https://www.nporadio1.nl/live](nporadio1.nl/live). 
 
 De vakjury, bestaande uit voorzitter Jan Westerhof (voormalig directeur Radio NPO), Antoin Peeters (RTL Nieuws), Saskia Houttuin (RTL Nieuws), Eva Cleven (NPO 3FM), Winfried Baijens (NOS Journaal) en Evelien de Bruijn (Talpa Radio 10), koos drie genomineerden uit de 28 aanmeldingen.
 
