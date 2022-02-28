@@ -57,7 +57,7 @@ Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis 
 * Jennemiek Leijssen, penningmeester en secretaris (corporate communicatiemanager Beeld en Geluid)
 * Rik Rensen (communicatiestrateeg en journalist)
 * Frits (Ritmeester) Spits (radio- en televisiemaker)
-* Taco Rijssemus (CEO IDTV)
+* René van Brakel (hoofdredacteur EénVandaag/AVROTROS)
 
 ## Comité van Aanbeveling
 
