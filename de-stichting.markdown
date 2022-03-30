@@ -50,7 +50,7 @@ E-mail: [jleijssen@beeldengeluid.nl](mailto:jleijssen@beeldengeluid.nl)
 
 ## Bestuur
 
-Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis en wordt niet financieel beloond. Per januari 2018:
+Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis en wordt niet financieel beloond. Per maart 2022:
 
 * Mieke Bloemendal-Olman (initiatiefneemster)
 * Sonja de Leeuw, voorzitter (hoogleraar Film en Televisie, Universiteit Utrecht)
