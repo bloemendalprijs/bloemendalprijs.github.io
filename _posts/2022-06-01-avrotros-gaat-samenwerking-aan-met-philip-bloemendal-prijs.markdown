@@ -2,8 +2,8 @@
 title: AVROTROS gaat samenwerking aan met Philip Bloemendal Prijs
 date: 2022-06-01 09:33:00 +01:00
 photos:
-- image: "/assets/img/logo.svg"
-  txt: Philip Bloemendal Prijs nieuwe logo
+- image: "/uploads/avrotros.jpg"
+  txt: AVROTROS
 ---
 
 AVROTROS gaat een samenwerking aan met de Philip Bloemendal Prijs en is hiermee de nieuwe mediapartner van de tweejaarlijkse prestigieuze stimuleringsprijs voor jonge, talentvolle presentatoren. Ook de Regionale Publieke Omroep, een kweekvijver voor jong presentatietalent, heeft zich verbonden aan de prijs. AVROTROS besteedt aandacht aan de prijs en de uitreiking daarvan op radio, die plaatsvindt op 8 december.
