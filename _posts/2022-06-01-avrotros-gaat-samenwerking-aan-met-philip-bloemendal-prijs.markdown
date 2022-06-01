@@ -2,7 +2,7 @@
 title: AVROTROS gaat samenwerking aan met Philip Bloemendal Prijs
 date: 2022-06-01 10:33:00 +02:00
 photos:
-- image: "/assets/img/logo.svg"
+- image: "/assets/img/avrotros.png"
   txt: Philip Bloemendal Prijs nieuwe logo
 ---
 
