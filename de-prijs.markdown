@@ -47,7 +47,7 @@ Van 2002 tot en met 2012 vormde het kunstwerk 'Speech Trumpet' onderdeel van de 
 
 **Artikel 2. Doel**
 
-Het PhBF stelt zich met het toekennen van deze prijs ten doel:
+De PBP stelt zich met het toekennen van deze prijs ten doel:
 
 het doorgeven van kwaliteitsbesef met betrekking tot effectief taalgebruik en communicatie in de media aan volgende generaties presentatoren van journalistieke producties.
 
