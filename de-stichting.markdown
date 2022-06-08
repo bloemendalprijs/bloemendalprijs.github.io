@@ -56,7 +56,7 @@ Het bestuur van de Stichting Philip Bloemendal Fonds werkt op vrijwillige basis 
 
 * Mieke Bloemendal-Olman (initiatiefneemster)
 * Sonja de Leeuw, voorzitter (hoogleraar Film en Televisie, Universiteit Utrecht)
-* Jennemiek Leijssen, penningmeester en secretaris (corporate communicatiemanager Beeld en Geluid)
+* Jennemiek Leijssen, penningmeester en secretaris (corporate communicatiemanager Beeld & Geluid)
 * Rik Rensen (communicatiestrateeg en journalist)
 * Frits (Ritmeester) Spits (radio- en televisiemaker)
 * René van Brakel (hoofdredacteur EénVandaag/AVROTROS)
