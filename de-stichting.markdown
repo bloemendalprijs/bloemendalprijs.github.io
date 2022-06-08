@@ -22,7 +22,7 @@ De Stichting wil haar doel onder meer verwezenlijken door:
 ## Secretariaat
 
 Philip Bloemendal Fonds  
-p/a Nederlands Instituut voor Beeld en Geluid  
+p/a Nederlands Instituut voor Beeld & Geluid  
 Postbus 1060  
 1200 BB Hilversum  
 
