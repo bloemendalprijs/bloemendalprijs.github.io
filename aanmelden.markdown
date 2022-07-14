@@ -6,7 +6,7 @@ videos:
 layout: page
 ---
 
-Op donderdag 8 december 2022 wordt de Philip Bloemendal Prijs voor de elfde keer bij Beeld & Geluid uitgereikt aan jong journalistiek presentatietalent uit de media. Van **1 juli tot en met 9 oktober 2022** kan talent opgeven of worden voorgedragen. De winnaar ontvangt een cheque ter waarde van 3.500 euro, te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.
+Op donderdag 8 december 2022 wordt de Philip Bloemendal Prijs voor de elfde keer bij Beeld & Geluid uitgereikt aan jong journalistiek presentatietalent uit de media. Van **7 juli tot en met 3 oktober 2022** kan talent zich opgeven of worden voorgedragen. De winnaar ontvangt een cheque ter waarde van 3.500 euro, te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.
 
 **Voorwaarden voor deelname**
 * Kandidaten dienen maximaal 30 jaar te zijn op 31 december van het jaar waarin de prijs wordt uitgereikt.
