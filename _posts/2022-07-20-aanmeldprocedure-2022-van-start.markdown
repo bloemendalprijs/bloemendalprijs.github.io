@@ -10,9 +10,9 @@ De aanmeldprocedure voor de Philip Bloemendal Prijs (PBP) 2022 is gestart. Van 2
 
 Programmamaker en jurylid van de PBP Evelien de Bruijn volgt Jan Westerhof op als juryvoorzitter. Daarnaast is presentatrice en columniste Iris van Lunenburg tot de jury toegetreden. De jury bestaat verder uit Antoin Peeters (Presentator RTL Nieuws), Winfried Baijens (Presentator NOS Nieuws) en Sosha Duysker (winnaar Philip Bloemendal Prijs 2020).
 
-De Stichting Philip Bloemendal Fonds wil met de tweejaarlijkse stimuleringsprijs 'kwaliteitsbesef aan nieuwe generaties journalistieke presentatoren' doorgeven. _"Effectief en zorgvuldig taalgebruik is hierbij een belangrijk criterium"_, aldus de jury.
+De Stichting Philip Bloemendal Fonds wil met de tweejaarlijkse stimuleringsprijs 'kwaliteitsbesef aan nieuwe generaties journalistieke presentatoren' doorgeven. *"Effectief en zorgvuldig taalgebruik is hierbij een belangrijk criterium"*, aldus de jury.
 
-De winnaar ontvangt een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen. Eén van de voorwaarden voor inschrijving is dat kandidaten op 31 december 2022 niet ouder zijn dan dertig jaar. 
+De winnaar ontvangt een geldbedrag van 3500 euro, te besteden aan een studie- of opleidingsproject om zich binnen het vakgebied verder te bekwamen. Eén van de voorwaarden voor inschrijving is dat kandidaten op 31 december 2022 niet ouder zijn dan dertig jaar.
 
 Eerdere winnaars zijn Brecht van Hulten (2002), Lucella Carasso (2004), Wouter Zwart (2006), Sofie van den Enk, (2008), Ajouad el-Miloudi (2010), Luuk Ikink (2012), Arman Avsaroglu (2014), Eva Cleven (2016), Saskia Houttuin (2018) en Sosha Duysker (2020).
 
