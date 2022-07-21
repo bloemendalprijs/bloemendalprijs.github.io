@@ -6,7 +6,7 @@ videos:
 layout: home
 ---
 
-{% include embed.html src="https://player.vimeo.com/video/493265341" ratio="16by9" %}
+{% include embed.html src="https://www.youtube-nocookie.com/embed/av6sWks4TsU?rel=0&amp;modestbranding=1&amp;controls=0" ratio="1by1" %}
 
 ---
 
