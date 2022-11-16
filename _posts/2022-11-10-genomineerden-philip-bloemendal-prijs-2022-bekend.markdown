@@ -10,7 +10,9 @@ photos:
   txt: Maxime de Vries
 ---
 
-De drie genomineerden voor de Philip Bloemendal Prijs 2022 zijn, in alfabetische volgorde: Merel Ek (Hart van Nederland, SBS6), Stephan Komduur (Vroeg! / De Nieuws BV BNNVARA) en Maxime de Vries (NOS Stories). De prijs wordt op donderdag 8 december voor de elfde keer uitgereikt tijdens een extra editie van het AVROTROS-radioprogramma EenVandaag dat tussen 19.00 en 20.00 uur live wordt uitgezonden op NPO Radio 1 vanuit Beeld & Geluid in Hilversum.
+De drie genomineerden voor de Philip Bloemendal Prijs 2022 zijn, in alfabetische volgorde: Merel Ek (Hart van Nederland, SBS6), Stephan Komduur (Vroeg! / De Nieuws BV BNNVARA) en Maxime de Vries (NOS Stories). De prijs wordt op donderdag 8 december voor de elfde keer uitgereikt tijdens een radio-uitzending, verzorgd door AVROTROS, tussen 19.00 en 20.00 uur live op NPO Radio 1. Roos Moggré presenteert de extra uitzending en het wordt vanuit Beeld & Geluid in Hilversum uitgezonden.
+
+
 
 De vakjury bestaande uit voorzitter Evelien de Bruijn (programmamaakster en presentatrice), Iris van Lunenburg (presentatrice en columniste),  Antoin Peeters (presentator RTL Nieuws), Winfried Baijens (presentator NOS Nieuws) en Sosha Duysker (winnaar Philip Bloemendal Prijs 2020) gaf de volgende toelichting bij haar keuze:
 
