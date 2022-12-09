@@ -6,7 +6,7 @@ videos:
 layout: home
 ---
 
-{% include embed.html src="https://www.youtube-nocookie.com/embed/av6sWks4TsU?rel=0&amp;modestbranding=1&amp;controls=0" ratio="1by1" %}
+<img src="/uploads/20221208_PhilipBloemendal_0001-43f313.jpg" class="img-responsive" />
 
 ---
 
