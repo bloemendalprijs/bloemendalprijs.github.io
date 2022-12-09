@@ -12,11 +12,14 @@ videos:
 - https://www.youtube-nocookie.com/embed/awj7ataEiys?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/ZYs4EQU5yPA?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/Cag5Tx0gVRA?rel=0&amp;showinfo=0
+excerpt_separator: <!--more-->
 ---
 
 **Sofie van den Enk (28) is de winnaar van de Philip Bloemendal Prijs 2008 voor jonge talentvolle presentatoren van nieuwsprogramma's in de media. In Hilversum kreeg zij op 11 december, uit handen van voetbalcoach Guus Hiddink, een glazen kunstwerk en de cheque van 3500 euro.**
 
 Sofie werkt als presentator/verslaggever bij RTV Utrecht. Het is voor het eerst in de geschiedenis van de prijs dat de winnaar afkomstig is van een regionale omroep. Alle voorgaande winnaars werken bij een landelijke omroep.
+
+<!--more-->
 
 Het juryrapport zegt over Sofie o.a.:
 

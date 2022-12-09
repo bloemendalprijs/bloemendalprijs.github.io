@@ -17,7 +17,6 @@ defaults:
     type: pages
   values:
     layout: page
-    background_image: "/assets/img/header-bg-pb.jpg"
     photos:
     - image: 
       txt: 
@@ -28,7 +27,6 @@ defaults:
   values:
     layout: page
     permalink: "/artikel/:title"
-    background_image: "/assets/img/header-bg-news.jpg"
     photos:
     - image: 
       txt: 
@@ -40,7 +38,6 @@ defaults:
     layout: page
     permalink: "/winnaar/:title"
     year: 
-    background_image: "/assets/img/header-bg-winners.jpg"
     photos:
     - image: 
       txt: 

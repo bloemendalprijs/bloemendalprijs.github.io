@@ -13,9 +13,12 @@ photos:
   txt: Anita Sara Nederlof
 - image: "/uploads/genomineerden_pbp_2016.jpg"
   txt: Genomineerden
+excerpt_separator: <!--more-->
 ---
 
 **De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die vanmiddag voor de achtste keer werd uitgereikt, is gewonnen door FunX-presentatrice Eva Cleven. In het Nederlands Instituut voor Beeld en Geluid ontving zij uit handen van burgemeester Pieter Broertjes van Hilversum, een cheque ter waarde van 3.500 euro te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.**
+
+<!--more-->
 
 Uit het juryrapport: 
 

@@ -5,9 +5,12 @@ position: 0
 year: 2020
 photos:
 - image: "/uploads/Sosha%20Duysker%20wint%20Philip%20Bloemendal%20Prijs%20Foto%20Paul%20Ridderhof2.jpg"
+excerpt_separator: <!--more-->
 ---
 
 Hilversum, 9 december 2020 – De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren, die vandaag voor de tiende keer werd uitgereikt, is gewonnen door Sosha Duysker. In het Nederlands Instituut voor Beeld en Geluid ontving zij, live tijdens het NPO Radio 1 programma Stax en Toine, een cheque ter waarde van 3.500 euro uit handen van Mieke Bloemendal. Dit bedrag kan zij besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.
+
+<!--more-->
 
 **Uit het juryrapport:**
 > Sosha is een supertalent en verbindt zich moeiteloos met de doelgroep. De kinderen die naar Zapp kijken, de generatiegenoten van FunX, maar ook een volle zaal met vertegenwoordigers van de filmwereld. De presentatie van het gala van de Gouden Kalveren deed ze ontspannen en met een grote glimlach. Geen publiek zo moeilijk als één dat uit professionals bestaat, maar Sosha trekt er zich niets van aan en maakt de verbinding met de zaal én de huiskamer. Haar betoog om te stoppen met de traditie van Zwarte Piet, geplaatst op haar eigen Instagram, maakte bovendien veel indruk bij de jury door de persoonlijke inzet en de goed opgebouwde argumentatie. Het is een vrouw met een mening die van het scherm spat. Ze formuleert genuanceerd en rustig. Onze indruk is dat Sosha niet alleen iets wil vertellen, maar ook wil luisteren. Daarmee zou ze een groot opiniemaker kunnen worden.
