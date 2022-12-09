@@ -9,7 +9,7 @@ photos:
   txt: Luuk Ikink
 videos:
 - https://www.youtube-nocookie.com/embed/2GWDPCD0_8c?rel=0&amp;showinfo=0
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die vanmiddag voor de zesde keer werd uitgereikt, is gewonnen door Luuk Ikink, radiopresentator van BNN. Uit handen van Raoul Heertje ontving de winnaar in het Nederlands Instituut voor Beeld en Geluid het bijbehorende glazen kunstwerk, de ‘Speech Trumpet’, en een bedrag van 3.500 euro, dat besteed moet worden aan een opleidingstraject binnen het vakgebied.

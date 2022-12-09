@@ -5,7 +5,7 @@ position: 0
 year: 2022
 photos:
 - image: "/uploads/20221208_PhilipBloemendal_0001-43f313.jpg"
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren, die vandaag voor de elfde keer werd uitgereikt, is gewonnen door radiopresentator **Stephan Komduur** (BNNVARA). In Beeld & Geluid ontving hij tijdens een live NPO Radio 1 radio-uitzending, verzorgd door AVROTROS, een cheque ter waarde van 3.500 euro uit handen van Sosha Duysker, de winnares van 2020. Dit bedrag kan hij besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.
