@@ -26,7 +26,7 @@ defaults:
     type: posts
   values:
     layout: page
-    permalink: '/artikel/:title'
+    permalink: "/artikel/:title"
     photos:
     - image: 
       txt: 
@@ -36,7 +36,7 @@ defaults:
     type: winners
   values:
     layout: page
-    permalink: '/winnaar/:title'
+    permalink: "/winnaar/:title"
     year: 
     photos:
     - image: 
@@ -51,7 +51,7 @@ baseurl: ''
 url: https://www.bloemendal.info
 twitter_username: bloemendalprijs
 markdown: kramdown
-excerpt_separator: '<!--more-->'
+excerpt_separator: "<!--more-->"
 plugins:
 - jekyll-feed
 exclude:
