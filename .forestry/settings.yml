@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
@@ -10,6 +7,10 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+- type: jekyll-posts
+  label: Posts
+  create: all
+  match: "**/*"
 - type: directory
   path: _winners
   label: Winners
@@ -18,10 +19,6 @@ sections:
 - type: directory
   path: _uploads
   label: Uploads
-  create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Posts
   create: all
   match: "**/*"
 upload_dir: _uploads
