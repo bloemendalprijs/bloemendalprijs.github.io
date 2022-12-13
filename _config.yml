@@ -64,5 +64,5 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
-- .siteleafignore
-- .forestry/
+- ".siteleafignore"
+- ".forestry/"
