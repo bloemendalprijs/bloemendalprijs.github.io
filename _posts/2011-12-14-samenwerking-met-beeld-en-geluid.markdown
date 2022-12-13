@@ -4,13 +4,14 @@ date: 2011-12-14 23:00:00 +01:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/beeld_en_geluid_zijkant.jpg"
   txt: Beeld en Geluid zijkant
 ---
 
 Het Philip Bloemendal Fonds en het Nederlands Instituut voor Beeld en Geluid zijn een samenwerking aangegaan. Hiermee wordt het voortbestaan van de talentprijs voor jonge commentatoren en presentatoren in de media gegarandeerd.
+
+<!--more-->
 
 De Stichting Philip Bloemendal Fonds is opgericht in november 2001 met het doel het doorgeven van kwaliteitsbesef over effectief taalgebruik en communicatie in de media aan nieuwe generaties presentatoren van met name nieuws en actualiteiten. Dit ter nagedachtenis van de gerenommeerde nieuwsverslaggever Philip Bloemendal, onder meer bekend vanwege zijn kenmerkende commentaar bij de Polygoonjournaals.
 

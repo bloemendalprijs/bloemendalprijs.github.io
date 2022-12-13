@@ -1,6 +1,5 @@
 ---
 title: Aanmelden
-background_image: "/assets/img/header-bg-prize.jpg"
 videos:
 - https://www.youtube-nocookie.com/embed/av6sWks4TsU?rel=0&amp;modestbranding=1&amp;controls=0
 layout: page

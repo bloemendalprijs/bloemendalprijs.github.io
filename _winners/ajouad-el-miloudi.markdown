@@ -3,7 +3,6 @@ title: Ajouad El-Miloudi
 position: 5
 layout: page
 year: 2010
-background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2010_0.jpg"
   txt: Ajouad El-Miloudi
@@ -12,7 +11,6 @@ videos:
 - https://www.youtube-nocookie.com/embed/k3AgdY9dBMY?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/9O83IIG_in4?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/JFPcw96drU4?rel=0&amp;showinfo=0
-excerpt_separator: "<!--more-->"
 ---
 
 **Ajouad El-Miloudi (23) is de winnaar van de Philip Bloemendal Prijs 2010 voor jonge talentvolle presentatoren van journalistieke programma's in de media.**

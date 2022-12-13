@@ -8,6 +8,8 @@ photos:
 
 De aanmeldprocedure voor de Philip Bloemendal Prijs (PBP) 2022 is gestart. Van 20 juli tot en met 3 oktober kan jong, journalistiek presentatietalent zich opgeven of worden voorgedragen. De prijs wordt op donderdag 8 december uitgereikt bij Beeld & Geluid, tijdens een speciale AVROTROS-radiouitzending op NPO Radio 1 tussen 19.00 en 20.00 uur. De presentatie is in handen van Roos Moggré.
 
+<!--more-->
+
 Programmamaker en jurylid van de PBP Evelien de Bruijn volgt Jan Westerhof op als juryvoorzitter. Daarnaast is presentatrice en columniste Iris van Lunenburg tot de jury toegetreden. De jury bestaat verder uit Antoin Peeters (Presentator RTL Nieuws), Winfried Baijens (Presentator NOS Nieuws) en Sosha Duysker (winnaar Philip Bloemendal Prijs 2020).
 
 De Stichting Philip Bloemendal Fonds wil met de tweejaarlijkse stimuleringsprijs 'kwaliteitsbesef aan nieuwe generaties journalistieke presentatoren' doorgeven. *"Effectief en zorgvuldig taalgebruik is hierbij een belangrijk criterium"*, aldus de jury.

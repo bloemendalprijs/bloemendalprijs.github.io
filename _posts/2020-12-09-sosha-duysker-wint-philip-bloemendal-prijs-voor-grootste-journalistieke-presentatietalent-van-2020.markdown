@@ -8,6 +8,8 @@ photos:
 
 Hilversum, 9 december 2020 – De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren, die vandaag voor de tiende keer werd uitgereikt, is gewonnen door Sosha Duysker. In het Nederlands Instituut voor Beeld en Geluid ontving zij, live tijdens het NPO Radio 1 programma Stax en Toine, een cheque ter waarde van 3.500 euro uit handen van Mieke Bloemendal. Dit bedrag kan zij besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.
 
+<!--more-->
+
 De vakjury, bestaande uit voorzitter Jan Westerhof (voormalig directeur Radio NPO), Antoin Peeters (RTL Nieuws), Saskia Houttuin (RTL Nieuws), Eva Cleven (NPO 3FM), Winfried Baijens (NOS Journaal) en Evelien de Bruijn (Talpa Radio 10) koos begin november uit 28 aanmeldingen de drie genomineerden: Sosha Duysker (Klokhuis, NTR), Ruben Leter (RTL Nieuws) en Sid van der Linden (NOS radio).
 
 **Juryrapport**

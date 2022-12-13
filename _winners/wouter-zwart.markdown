@@ -3,7 +3,6 @@ title: Wouter Zwart
 position: 7
 layout: page
 year: 2006
-background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2006_0.jpg"
   txt: Wouter Zwart
@@ -13,7 +12,6 @@ videos:
 - https://www.youtube-nocookie.com/embed/8LrWKNJwUEA?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/FxOSLKRvCik?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/zT3gGXgN4xA?rel=0&amp;showinfo=0
-excerpt_separator: "<!--more-->"
 ---
 
 **In Hilversum is op 7 december 2006 door schrijver/columnist Jan Mulder de Philip Bloemendal Prijs voor jonge talentvolle presentatoren uitgereikt aan Wouter Zwart. De 29-jarige Zwart is NOS correspondent (tv, radio en internet) in China.**

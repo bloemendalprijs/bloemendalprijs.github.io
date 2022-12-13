@@ -1,6 +1,5 @@
 ---
 title: Home
-background_image: "/assets/img/header-bg-general.jpg"
 videos:
 - 
 layout: home

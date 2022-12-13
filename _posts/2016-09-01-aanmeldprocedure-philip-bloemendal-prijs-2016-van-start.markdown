@@ -4,7 +4,6 @@ date: 2016-09-01 00:00:00 +02:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/arman_frits_pbp.jpg"
   txt: Arman en Frits

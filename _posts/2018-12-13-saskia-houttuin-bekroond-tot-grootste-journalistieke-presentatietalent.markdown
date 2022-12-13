@@ -3,7 +3,6 @@ title: Saskia Houttuin bekroond tot grootste journalistieke presentatietalent
 date: 2018-12-13 11:01:00 +01:00
 categories:
 - nieuws
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/Philip%20Bloemendal%20prijs%2009.jpg"
   txt: 
@@ -14,6 +13,8 @@ photos:
 ---
 
 Hilversum, 13 december 2018 – De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die vanmiddag voor de negende keer werd uitgereikt, is gewonnen door Saskia Houttuin. In het Nederlands Instituut voor Beeld en Geluid ontving zij uit handen van cabaretier en woordkunstenaar Wim Daniëls, een cheque ter waarde van 3.500 euro te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied. 
+
+<!--more-->
 
 >als correspondent Afrika voor RTL Nieuws vanuit Nairobi in Kenia geeft Saskia Afrika een gezicht. Zo maakt ze, vrijwel altijd alleen, korte achtergrondreportages in een nieuwsprogramma waarin ze veelal mensen introduceert waarmee je je als kijker kunt identificeren. Script, beeld, geluid, interviews en stand up presentatie, allen met groot vakmanschap gemaakt. Met heldere teksten en goede beeldvoering vertelt Saskia het verhaal. Als Saskia zichzelf in beeld brengt is ze innemend en overtuigend. Om zo, solo opererend, je eigen stem en stijl te vinden is bijzonder knap. De duiding in haar presentatie wordt opgebouwd met begrijpelijke taal die goed te volgen is voor iedere kijker. Onder moeilijke condities maakt Saskia heldere keuzes. De jury is dan ook van mening dat hier een uitstekende vakvrouw met een belangrijke taak bezig is. _jury_
 

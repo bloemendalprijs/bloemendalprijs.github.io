@@ -3,7 +3,6 @@ title: Lucella Carasso
 position: 8
 layout: page
 year: 2004
-background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2004_0.jpg"
   txt: Lucella Carasso
@@ -13,7 +12,6 @@ videos:
 - https://www.youtube-nocookie.com/embed/xB5S6QITYwk?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/WH5ZEjWOeuQ?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/yFrkhlefNKM?rel=0&amp;showinfo=0
-excerpt_separator: "<!--more-->"
 ---
 
 **Voormalig minister-president Wim Kok heeft de  Philip Bloemendal Prijs voor jonge talentvolle presentatoren op radio of televisie uitgereikt aan Lucella Carasso (32). De presentator en politiek verslaggever bij Radio 1 van de NOS kreeg de prijs op 30 november 2004 in Hilversum.**

@@ -1,8 +1,8 @@
 ---
 title: De Stichting
-background_image: "/assets/img/header-bg-fund.jpg"
 photos:
-- txt: Origineel logo Stichting Philip Bloemendal Fonds
+- image: "/uploads/kunstwerk_0.jpg"
+  txt: Stichting Philip Bloemendal Fonds
 layout: page
 ---
 

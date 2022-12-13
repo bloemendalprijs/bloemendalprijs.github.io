@@ -4,7 +4,6 @@ date: 2016-11-30 23:00:00 +01:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/website_eva_cleven_01_1.jpg"
   txt: Eva Cleven en burgemeester Pieter Broertjes
@@ -13,6 +12,8 @@ videos:
 ---
 
 **De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die vanmiddag voor de achtste keer werd uitgereikt, is gewonnen door FunX-presentatrice Eva Cleven. In het Nederlands Instituut voor Beeld en Geluid ontving zij uit handen van burgemeester Pieter Broertjes van Hilversum, een cheque ter waarde van 3.500 euro te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.**
+
+<!--more-->
 
 Juryrapport:
 

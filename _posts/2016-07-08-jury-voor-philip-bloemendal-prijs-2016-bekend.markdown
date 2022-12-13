@@ -4,13 +4,14 @@ date: 2016-07-08 00:00:00 +02:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs
 ---
 
 **Hilversum – Donderdag 8 december 2016 wordt de Philip Bloemendal Prijs voor de 8e keer uitgereikt bij Beeld en Geluid in Hilversum. Deze tweejaarlijkse stimuleringsprijs voor jong journalistiek presentatietalent in de media, is in 2001 in het leven geroepen ter nagedachtenis aan de legendarische commentator van het Polygoon journaal Philip Bloemendal, die in 1999 overleed.**
+
+<!--more-->
 
 De Stichting Philip Bloemendal Fonds is opgericht in november 2001 met het doel het doorgeven van kwaliteitsbesef aan nieuwe generaties journalistieke presentatoren. Effectief en zorgvuldig taalgebruik en communicatie in de media zijn hierbij belangrijke criteria.
 

@@ -3,13 +3,11 @@ title: Brecht van Hulten
 position: 9
 layout: page
 year: 2002
-background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2002_0.jpg"
   txt: Brecht van Hulten
 videos:
 - https://www.youtube-nocookie.com/embed/M7DXvfB7ctA?rel=0&amp;showinfo=0
-excerpt_separator: "<!--more-->"
 ---
 
 **Op 19 november 2002, tijdens een feestelijke bijeenkomst in Hilversum, heeft Mr. Pieter van Vollenhoven de eerste Philip Bloemendal Prijs uitgereikt aan Brecht van Hulten.**

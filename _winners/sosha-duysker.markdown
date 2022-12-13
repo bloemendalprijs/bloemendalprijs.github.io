@@ -5,7 +5,6 @@ position: 0
 year: 2020
 photos:
 - image: "/uploads/Sosha%20Duysker%20wint%20Philip%20Bloemendal%20Prijs%20Foto%20Paul%20Ridderhof2.jpg"
-excerpt_separator: "<!--more-->"
 ---
 
 Hilversum, 9 december 2020 – De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren, die vandaag voor de tiende keer werd uitgereikt, is gewonnen door Sosha Duysker. In het Nederlands Instituut voor Beeld en Geluid ontving zij, live tijdens het NPO Radio 1 programma Stax en Toine, een cheque ter waarde van 3.500 euro uit handen van Mieke Bloemendal. Dit bedrag kan zij besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.

@@ -4,13 +4,14 @@ date: 2012-12-14 23:00:00 +01:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/overdracht_prijzen.jpg"
   txt: Overdracht prijzen
 ---
 
 Naast het complete Polygoon-beeldarchief en het privé-archief van Philip Bloemendal zijn nu ook  de prijzen die het Polygoon-journaal ooit won, overgedragen aan het Nederlands Instituut voor Beeld en Geluid.
+
+<!--more-->
 
 Directeur Jan Müller ontving ze uit handen van voormalig cameraman van het Polygoon-journaal, Jan van Meerten. Het gaat om de vier prijzen die het Polygoon-journaal in de jaren 50 en 60 gewonnen heeft: Biennale Venetië (1959), Internationaal filmfestival (1963), Cork Filmfestival (1962) en de World News Awards (1969).
 

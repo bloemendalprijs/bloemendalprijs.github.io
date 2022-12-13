@@ -7,6 +7,8 @@ photos:
 
 De Philip Bloemendal Prijs wordt dit jaar voor de tiende keer uitgereikt. In aanloop naar deze jubileumeditie blikken oud-winnaars Brecht van Hulten, Lucella Carasso, Wouter Zwart, Sofie van den Enk, Luuk Ikink, Arman Avsaroglu en Saskia Houttuin terug op hun carrière in de speciale Philip Bloemendal Podcast. Van 30 november tot en met 8 december is dagelijks een andere winnaar te horen. De uitreiking van de Philip Bloemendal Prijs 2020 vindt op woensdag 9 december plaats bij Beeld en Geluid en is live te beluisteren via het NPO Radio 1 programma Stax en Toine. 
 
+<!--more-->
+
 **Philip Bloemendal Podcast**
 In de Philip Bloemendal Podcast spreken zeven oud-winnaars met podcastmaker Astrid Cornelisse over hoe zij in de journalistiek terecht zijn gekomen, wat het winnen van de prijs voor hun carrière heeft betekend en geven zij tips voor aanstormend presentatietalent. Zo vertelt NOS correspondent Wouter Zwart over de enige vraag die hij ooit aan Donald Trump heeft kunnen stellen, legt RTL Boulevard presentator Luuk Ikink uit waarom hij trots is op het winnen van de Philip Bloemendal Prijs en vertelt NOS radiopresentatrice Lucella Carasso over het moment waarop ze moeite had te (blijven) presenteren na het incident met Tarik Z. in het NOS-gebouw. 
 

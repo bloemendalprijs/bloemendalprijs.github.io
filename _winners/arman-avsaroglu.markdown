@@ -3,7 +3,6 @@ title: Arman Avsaroglu
 position: 3
 layout: page
 year: 2014
-background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/philip-bloemendal-prijs-2014-bho-1352.jpg"
   txt: Arman Avsaroglu
@@ -14,7 +13,6 @@ videos:
 - https://www.youtube-nocookie.com/embed/ohEfF5b5d8c?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/pFobKIZNGBk?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/bjqRmFbbRLs?rel=0&amp;showinfo=0
-excerpt_separator: "<!--more-->"
 ---
 
 **De Philip Bloemendal Prijs voor jonge talentvolle journalistieke presentatoren in de media, die vanmiddag voor de zevende keer werd uitgereikt, is gewonnen door NOS sportcommentator Arman Avsaroglu. In het Nederlands Instituut voor Beeld en Geluid ontving hij uit handen van burgemeester Pieter Broertjes van Hilversum, een cheque ter waarde van 3.500 euro te besteden aan een opleiding om zich verder te professionaliseren in het vakgebied.**

@@ -4,7 +4,6 @@ date: 2016-10-31 23:00:00 +01:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs
@@ -17,6 +16,8 @@ photos:
 ---
 
 **De drie genomineerden voor de Philip Bloemendal Prijs 2016 zijn, in alfabetische volgorde, Amber Brantsen (NOS), Eva Cleven (FunX) en Anita Sara Nederlof (RTV Utrecht).**
+
+<!--more-->
 
 De jury, bestaande uit voorzitter Frits (Spits) Ritmeester (NPO Radio 1, De Taalstaat, KRO-NCRV), Suzanne Bosman (Radio 1, EenVandaag), Tim Overdiek (NOS Online), Sofie van den Enk (KRO-NCRV)) en de winnaar van 2014 Arman Avsaroglu (NOS Radio) koos unaniem voor deze drie genomineerden uit de 23 aanmeldingen van jonge talentvolle, journalistieke presentatoren.
 

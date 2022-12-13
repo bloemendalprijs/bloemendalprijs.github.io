@@ -12,6 +12,8 @@ achtergrond en sekse, als wat betreft medium. Radio, televisie, online. Landelij
 en zelfs lokaal. Vanzelfsprekend met verschil in kwaliteit, maar zonder uitzondering
 professioneel, ambitieus, geëngageerd.
 
+<!--more-->
+
 Het zijn representanten van de generatie millennials en generatie Z, zij die de eerste online generatie vormen. Kinderen van de digitale revolutie. Ze zijn ongeveer even oud als het
 internet en hebben van jongs af aan leren leven met video en massacommunicatie. Ze zijn er
 aan gewend dat camera’s en smartphones hun leven vastleggen. Communicatie langs

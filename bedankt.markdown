@@ -1,6 +1,5 @@
 ---
 title: Bedankt
-background_image: "/assets/img/header-bg-prize.jpg"
 videos:
 - https://www.youtube-nocookie.com/embed/L7si2CCh8DY?rel=0&amp;showinfo=0
 layout: page

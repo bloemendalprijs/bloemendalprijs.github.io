@@ -3,7 +3,6 @@ title: Sofie van den Enk
 position: 6
 layout: page
 year: 2008
-background_image: "/assets/img/header-bg-winners.jpg"
 photos:
 - image: "/uploads/winnaar2008_0.jpg"
   txt: Sofie van den Enk
@@ -12,7 +11,6 @@ videos:
 - https://www.youtube-nocookie.com/embed/awj7ataEiys?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/ZYs4EQU5yPA?rel=0&amp;showinfo=0
 - https://www.youtube-nocookie.com/embed/Cag5Tx0gVRA?rel=0&amp;showinfo=0
-excerpt_separator: "<!--more-->"
 ---
 
 **Sofie van den Enk (28) is de winnaar van de Philip Bloemendal Prijs 2008 voor jonge talentvolle presentatoren van nieuwsprogramma's in de media. In Hilversum kreeg zij op 11 december, uit handen van voetbalcoach Guus Hiddink, een glazen kunstwerk en de cheque van 3500 euro.**

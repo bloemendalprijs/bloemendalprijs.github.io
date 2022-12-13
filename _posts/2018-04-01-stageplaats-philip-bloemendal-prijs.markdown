@@ -4,13 +4,14 @@ date: 2018-04-01 00:00:00 +02:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs
 ---
 
 Op donderdag 13 december 2018  wordt voor de negende keer de Philip Bloemendal Prijs uitgereikt. De Philip Bloemendal Prijs is de tweejaarlijkse prestigieuze stimuleringsprijs voor jonge  talentvolle presentatoren van nieuws en actualiteitenprogramma’s.
+
+<!--more-->
 
 De Stichting Philip Bloemendal Fonds, opgericht in november 2001, heeft zich met deze tweejaarlijkse stimuleringsprijs ten doel gesteld het doorgeven van kwaliteitsbesef aan nieuwe generaties journalistieke presentatoren. Effectief en zorgvuldig taalgebruik is hierbij een belangrijk criterium. Dit ter nagedachtenis aan Philip Bloemendal, de in 1999 overleden legendarische commentator van het Polygoon bioscoopjournaal die veertig jaar het gezicht ervan bepaalde. Het Fonds is als onafhankelijke stichting ondergebracht bij het Nederlands Instituut voor Beeld en Geluid.
 

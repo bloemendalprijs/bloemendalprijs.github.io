@@ -1,7 +1,6 @@
 ---
 title: Philip Bloemendal
 layout: page
-background_image: "/assets/img/header-bg-pb.jpg"
 photos:
 - image: "/uploads/Philip_Bloemendal.jpg"
   txt: 'Philip Bloemendal in Monitor (NTS 1966. Bron: fotoarchief Nederlands Instituut

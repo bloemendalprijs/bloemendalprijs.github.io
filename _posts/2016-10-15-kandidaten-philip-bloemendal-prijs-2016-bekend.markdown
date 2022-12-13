@@ -4,13 +4,14 @@ date: 2016-10-15 00:00:00 +02:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs
 ---
 
 De kandidaten voor de **Philip Bloemendal Prijs 2016** zijn bekend! Drieëntwintig jonge talentvolle presentatoren hebben zich aangemeld en dingen mee naar de prijs voor het beste journalistieke presentatietalent 2016.
+
+<!--more-->
 
 Begin november zal de jury, onder leiding van voorzitter Frits Spits, de drie genomineerden bekend maken. De uiteindelijke winnaar krijgt de prijs op **donderdag 8 december 2016 in Beeld en Geluid** uitgereikt.
 

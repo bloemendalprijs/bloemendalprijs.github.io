@@ -4,7 +4,6 @@ date: 2018-11-08 23:00:00 +01:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs
@@ -17,6 +16,8 @@ photos:
 ---
 
 **De drie genomineerden voor de Philip Bloemendal Prijs 2018 zijn, in alfabetische volgorde, Sahil Amar Aïssa (De Wereld Draait Door- BNNVARA), Saskia Houttuin (RTL Nieuws) en Charlotte Nijs (Hart van Nederland- SBS6). Tijdens de feestelijke uitreiking op donderdag 13 december a.s. wordt de winnaar bekend gemaakt.  De presentatie is in handen van Eva Cleven, de winnares van 2016,  en vindt plaats bij Beeld en Geluid in Hilversum.**
+
+<!--more-->
 
 De vakjury bestaande uit, voorzitter Jan Westerhof (voormalig directeur Radio NPO), Suzanne Bosman (Radio 1, EenVandaag), Sofie van den Enk (KRO, winnaar Philip Bloemendal Prijs 2008),  Antoin Peeters (Presentator RTL Nieuws) en Eva Cleven koos unaniem voor deze drie genomineerden uit de 22 aanmeldingen van jonge talentvolle, journalistieke presentatoren.
  

@@ -4,13 +4,14 @@ date: 2018-11-05 23:00:00 +01:00
 categories:
 - nieuws
 layout: page
-background_image: "/assets/img/header-bg-news.jpg"
 photos:
 - image: "/uploads/pbplogo.png"
   txt: Philip Bloemendal Prijs
 ---
 
 Ook dit jaar staat er weer een groot aantal presentatietalenten op de longlist van de jury van de Philip Bloemendla Prijs. Op dinsdag 6 november aanstaande maakt de jury, onder voorzitterschap van Jan Westerhof, de drie genomineerden bekend. Op donderdag 13 december wordt tijdens een feestlijke bijeenkomst bij Beeld en Geluid de winnaar bekend gemaakt.
+
+<!--more-->
 
 De volgende kandidaten (in alfabetische volgorde) hebben zich aangemeld, of zijn voorgedragen voor de Philip Bloemendal Prijs 2018. 
  
