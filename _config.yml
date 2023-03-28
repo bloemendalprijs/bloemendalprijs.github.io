@@ -5,9 +5,6 @@ collections:
   posts:
     title: Nieuws
     output: true
-  uploads:
-    title: Uploads
-    output: true
   winners:
     title: Winnaars
     output: true
@@ -51,7 +48,7 @@ baseurl: ''
 url: https://www.bloemendal.info
 twitter_username: bloemendalprijs
 markdown: kramdown
-excerpt_separator: "<!--more-->"
+excerpt_separator: "<more />"
 plugins:
 - jekyll-feed
 exclude:
