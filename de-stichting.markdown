@@ -36,6 +36,7 @@ Balans en staat van baten en lasten:
 * [2018-2019](/uploads/Financieel%20jaarverslag%20Philip%20Bloemendal%201819-5.pdf)
 * [2019-2020](/uploads/Jaarcijfers%202020%20Stichting%20Philip%20Bloemendal%20excl.%20bankmutaties%20(1).pdf)
 * [2020-2021](/uploads/Jaarcijfers%202021%20Stichting%20Philip%20Bloemendal%20(1).pdf)
+* [2021-2022](/uploads/Jaarrekening%202022%20Stichting%20Philip%20Bloemendal%20(1).pdf)
 
 
 
@@ -44,6 +45,7 @@ Verantwoording:
 * [Jaarverslag 2018-2019](/uploads/Jaarverslag%20Philip%20Bloemendal%201819.pdf)
 * [Jaarverslag 2019-2020](/uploads/PBP%20BESTUURSVERSLAG%202020.pdf)
 * [Jaarverslag 2020-2021](/uploads/Jaarverslag%20PBP%202021.pdf)
+* [Jaarverslag 2021-2022](/uploads/Verantwoording%202022%20bestuur%20Philip%20Bloemendal%20Prijs.docx)
 
 
 
