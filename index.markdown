@@ -5,7 +5,7 @@ videos:
 layout: home
 ---
 
-<img src="/uploads/20221208_PhilipBloemendal_0001-43f313.jpg" class="img-responsive" />
+<img src="/uploads/20221208_PhilipBloemendal_0001-43f313.jpg" class="img-fluid" />
 
 ---
 
