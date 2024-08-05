@@ -28,7 +28,7 @@ Kwaliteit van aankomend talent wordt door een vakjury beoordeeld op onder meer d
 
 * stem, spraak, formulering en aspecten van persoonlijke presentatie.
 
-In 2022 bestond de vakjury uit voorzitter Evelien de Bruijn (programmamaakster en presentatrice), Iris van Lunenburg (presentatrice en columniste), Antoin Peeters (presentator RTL Nieuws), Winfried Baijens (presentator NOS Nieuws) en Sosha Duysker (winnaar 2020).
+In 2024 bestaat de vakjury uit voorzitter Evelien de Bruijn (programmamaakster en presentatrice), Iris van Lunenburg (presentatrice en columniste), Pepijn Crone (presentator RTL Nieuws), Winfried Baijens (presentator NOS Nieuws) en Stephan Komduur(winnaar 2022).
 
 ### Speech Trumpet
 
@@ -98,31 +98,9 @@ Kandidaten dienen:
 
 **Artikel 6. Aanmeldingsprocedure**
 
- 1. Kandidaten kunnen zichzelf aanmelden maar ook door derden voorgedragen worden (bijvoorbeeld: door landelijke, regionale of lokale omroeporganisaties, door de kijker/luisteraar, de jury enz.)
+ 1. Tot 2022 konden kandidaten zichzelf aanmelden maar ook door derden voorgedragen worden (bijvoorbeeld: door landelijke, regionale of lokale omroeporganisaties, door de kijker/luisteraar, de jury enz.)
 
- 2. Indien een kandidaat door derden wordt voorgedragen zal van hem/haar toestemming voor de kandidaatstelling verkregen moeten worden.
-
- 3. Een kandidaat die zichzelf aanmeldt dient dit af te stemmen met zijn/haar werkgever/opdrachtgever.
-
- 4. De werkgever van de kandidaat verplicht zich ertoe de kandidaat in staat te stellen de opleiding in het kader van de Bloemendal prijs te volgen in het geval de kandidaat tot winnaar wordt verkozen.
-
- 5. Een aanmelding moet voorzien zijn van een schriftelijke toelichting waarop vermeld: naam, adres, woonplaats, leeftijd, aantal jaren in het vakgebied werkzaam en een beknopte motivatie voor deelneming.
-
- 6. Een kandidaat levert een opname in met een lengte tussen 2 minuten minimaal en 10 minuten maximaal. Een compilatie is toegestaan. Technische gegevens in overleg met het secretariaat.
-
- 7. Een inzending dient niet ouder te zijn dan 10 maanden voorafgaand aan de datum van inzending.
-
- 8. Een aanmelding kan geschieden in de periode die door het bestuur van het PBP in de media wordt bekendgemaakt, in principe minimaal drie maanden voor de datum van de prijsuitreiking.
-
- 9. De aanmeldingstermijn sluit minimaal 21 dagen voorafgaand aan het eerste juryberaad.
-
-10. Aanmeldingen richten aan: Philip Bloemendal Prijs, p/a  Nederlands Instituut voor Beeld en Geluid, Directiesecretariaat. Postbus 1060, 1200 BB Hilversum; Media Parkboulevard 1, 1217 WE Hilversum. Tel.035.6775555. e-mail: [jleijssen@beeldengeluid.nl](mailto:jleijssen@beeldengeluid.nl)
-
-11. Inzendingen worden niet geretourneerd.
-
-12. Een kandidaat kan maximaal aan twee opeenvolgende edities van de PBP meedoen.
-
-13. Aanmelding als kandidaat betekent ook dat de kandidaat én de werkgever toestemming geven om, in het geval van nominatie, het aangeleverde materiaal te kunnen inzetten t.b.v. de prijsuitreiking, op de website en t.b.v. pr/promotie van de prijs en de genomineerden.
+ 2. Vanaf 2024 is de jury verantwoordelijk voor de samenstelling van de longlist met mogelijke kandidaten en selecteert uit die lijst drie genomineerden en de uiteindelijke winnaar. Ook de leden van het bestuur kunnen kandidaten voordragen. 
 
 **Artikel 7. Jurering**
 
@@ -134,15 +112,13 @@ Kandidaten dienen:
 
 4. Het bestuur kan een categorie vaststellen waarvoor de prijs zal gelden (art.5.2). De jury kan advies uitbrengen omtrent de categorie voor de volgende editie van de prijs.
 
-5. De jury en/of het bestuur mag per editie 1 (één) wildcard toekennen aan een jong talent indien zij deze kandidaat missen tussen de aanmeldingen.
-
-6. Werkwijze
+5. Werkwijze
 
 De jury richt haar werkzaamheden naar eigen inzicht in met de volgende richtlijnen:
 
 1. De jury streeft naar een oordeel op basis van unanimiteit. Indien dat niet haalbaar is komt de jury tot haar beslissing bij meerderheid van stemmen. Indien een jurylid een bijzondere betrokkenheid heeft bij één van de kandidaten onthoudt deze zich van stemming.
 
-2. De jury bepaalt een maximum van 3 genomineerden en richt haar beredeneerde voordracht voor winnaar en genomineerden, het juryrapport, aan het bestuur van het PhBF.
+2. De jury stelt zelf een longlist samen en kiest daaruit een maximum van 3 genomineerden en richt haar beredeneerde voordracht voor winnaar en genomineerden, het juryrapport, aan het bestuur van het PhBF.
 
 3. De jury kan besluiten tot het niet toekennen van de prijs, doch in dat geval uitsluitend bij unanimiteit. De motivering van het besluit maakt onderdeel uit van het juryrapport.
 
@@ -162,4 +138,4 @@ De jury wordt uitgenodigd het bestuur te adviseren over verbeteringen of verfijn
 
 2. Over onderwerpen betreffende de PBP waarin dit Reglement en de statuten niet voorzien, beslist het bestuur van het PhBF.
 
-Ingangsdatum deze wijziging: 1 januari 2018
+Ingangsdatum deze wijziging: 22 juli 2024
