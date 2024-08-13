@@ -1,10 +1,10 @@
 ---
 title: Aanmelden
-videos:
-- https://www.youtube-nocookie.com/embed/av6sWks4TsU?rel=0&amp;modestbranding=1&amp;controls=0
+date: 2024-07-22 14:25:00 +02:00
 layout: page
 ---
 
-Op donderdag 12 december 2024 wordt de Philip Bloemendal Prijs voor de twaalfde keer bij Beeld & Geluid uitgereikt aan jong journalistiek presentatietalent uit de media. 
+Op vrijdagmiddag 20 december tussen 14-16 uur wordt de Philip Bloemendal Prijs voor de twaalfde keer bij Beeld & Geluid uitgereikt aan jong journalistiek presentatietalent uit de media. 
 
-In tegenstelling tot voorgaande jaren, kunnen presentatoren zichzelf niet meer aanmelden of zich laten aanmelden door hun werkgevers. De jury stelt zelf een longlist van mogelijke kandidaten samen.
+In tegenstelling tot voorafgaande jaren, kunnen presentatoren zichzelf niet meer aanmelden of zich laten aanmelden door hun werkgevers. De jury stelt zelf een longlist van mogelijke kandidaten samen. 
+
