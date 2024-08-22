@@ -37,6 +37,8 @@ Balans en staat van baten en lasten:
 * [2019-2020](/uploads/Jaarcijfers%202020%20Stichting%20Philip%20Bloemendal%20excl.%20bankmutaties%20(1).pdf)
 * [2020-2021](/uploads/Jaarcijfers%202021%20Stichting%20Philip%20Bloemendal%20(1).pdf)
 * [2021-2022](/uploads/Jaarrekening%202022%20Stichting%20Philip%20Bloemendal%20(1).pdf)
+* [2022-2023 Stichting Philip Bloemendal-f34cf9.pdf](/uploads/Jaarrekening%202023%20Stichting%20Philip%20Bloemendal-f34cf9.pdf)
+
 
 
 
