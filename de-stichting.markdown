@@ -48,7 +48,7 @@ Verantwoording:
 * [Jaarverslag 2019-2020](/uploads/PBP%20BESTUURSVERSLAG%202020.pdf)
 * [Jaarverslag 2020-2021](/uploads/Jaarverslag%20PBP%202021.pdf)
 * [Jaarverslag 2021-2022](/uploads/Verantwoording%202022%20bestuur%20Philip%20Bloemendal%20Prijs.docx)
-* [Jaarverslag 2022-2023.docx.pdf](/uploads/Jaarverslag%202022-2023.docx.pdf)
+* [Jaarverslag 2022-2023](/uploads/Jaarverslag%202022-2023.docx.pdf)
 
 
 Telefoon: 035 - 6775555  
