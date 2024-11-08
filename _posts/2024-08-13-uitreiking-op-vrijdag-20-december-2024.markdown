@@ -1,6 +1,9 @@
 ---
 title: Uitreiking op vrijdag 20 december 2024
 date: 2024-08-13 12:34:00 +02:00
+photos:
+- image: "/uploads/avrotros.jpg"
+  txt: AVROTROS
 ---
 
 De Philip Bloemendal Prijs 2024 wordt uitgereikt op vrijdag 20 december tussen 14-16 uur, tijdens het radioprogramma Humberto op NPO Radio 1, verzorgd door AVROTROS. 
