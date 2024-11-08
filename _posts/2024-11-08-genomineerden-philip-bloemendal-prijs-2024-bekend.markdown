@@ -9,9 +9,11 @@ photos:
     van Lunenburg en Winfried Baijens'
 ---
 
-Wie maken kans op de prestigieuze Philip Bloemendal Prijs 2024? Dé prijs voor nieuw, jong, journalistiek presentatietalent? Na het juryberaad zijn de genomineerden, in alfabetische volgorde: Chaira Koops (De Marker, BNNVARA), Jan van Poppel (presentator van o.a. De Nacht van… en Keihard Klassiek) en Gijs Sanders (De Marker, BNNVARA). Wie de winnaar is, wordt vrijdag 20 december tussen 14.00 en 16.00 uur bekendgemaakt tijdens de live radio-uitzending Humberto op NPO Radio 1. De uitzending wordt door AVROTROS vanuit Beeld & Geluid in Hilversum uitgezonden.
+Wie maken kans op de prestigieuze Philip Bloemendal Prijs 2024? Dé prijs voor nieuw, jong, journalistiek presentatietalent? Na het juryberaad zijn de genomineerden, in alfabetische volgorde: Chaira Koops (De Marker, BNNVARA), Jan van Poppel (presentator van o.a. De Nacht van… en Keihard Klassiek) en Gijs Sanders (De Marker, BNNVARA). 
 
 <!--more-->
+
+Wie de winnaar is, wordt vrijdag 20 december tussen 14.00 en 16.00 uur bekendgemaakt tijdens de live radio-uitzending Humberto op NPO Radio 1. De uitzending wordt door AVROTROS vanuit Beeld & Geluid in Hilversum uitgezonden.
 
 “De drie genomineerden spreken allemaal een jonge generatie aan met onderwerpen die verre van makkelijk zijn. Ze weten verdieping te geven achter de onderwerpen, en zorgen tegelijkertijd dat het aantrekkelijk gepresenteerd wordt, waardoor ze jongeren bereiken. Het creëren van die balans is heel knap”, aldus de vakjury. 
 
