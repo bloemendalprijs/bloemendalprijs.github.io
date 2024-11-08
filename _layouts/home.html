@@ -5,7 +5,7 @@
       {% assign latest = site.posts[0] %}
       <h5>{{ latest.title }}</h5>
       <p>{{ latest.excerpt | strip_html }}</p>
-      <a href="{{ '/nieuwsoverzicht' | relative_url }}">Meer nieuws &raquo;</a>
+      <a href="{{ latest.url | relative_url }}">Lees meer &raquo;</a>
       <!--
       <hr>
       <p>De eerstvolgende editie van de Philip Bloemendal Prijs (PBP) zal plaatsvinden op 13 december 2018.
