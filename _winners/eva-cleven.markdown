@@ -1,6 +1,6 @@
 ---
 title: Eva Cleven
-position: 2
+position: 3
 layout: page
 year: 2016
 photos:

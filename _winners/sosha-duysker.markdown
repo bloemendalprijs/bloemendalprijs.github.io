@@ -1,7 +1,7 @@
 ---
 title: Sosha Duysker
 date: 2020-12-09 16:16:00 +01:00
-position: 0
+position: 1
 year: 2020
 photos:
 - image: "/uploads/Sosha%20Duysker%20wint%20Philip%20Bloemendal%20Prijs%20Foto%20Paul%20Ridderhof2.jpg"

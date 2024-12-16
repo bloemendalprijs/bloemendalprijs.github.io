@@ -1,6 +1,6 @@
 ---
 title: Brecht van Hulten
-position: 9
+position: 10
 layout: page
 year: 2002
 photos:

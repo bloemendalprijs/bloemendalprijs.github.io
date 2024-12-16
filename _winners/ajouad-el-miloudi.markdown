@@ -1,6 +1,6 @@
 ---
 title: Ajouad El-Miloudi
-position: 5
+position: 6
 layout: page
 year: 2010
 photos:

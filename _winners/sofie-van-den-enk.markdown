@@ -1,6 +1,6 @@
 ---
 title: Sofie van den Enk
-position: 6
+position: 7
 layout: page
 year: 2008
 photos:

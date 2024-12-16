@@ -1,6 +1,6 @@
 ---
 title: Luuk Ikink
-position: 4
+position: 5
 layout: page
 year: 2012
 photos:

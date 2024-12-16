@@ -1,6 +1,6 @@
 ---
 title: Lucella Carasso
-position: 8
+position: 9
 layout: page
 year: 2004
 photos:

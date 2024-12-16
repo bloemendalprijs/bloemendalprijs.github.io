@@ -1,6 +1,6 @@
 ---
 title: Arman Avsaroglu
-position: 3
+position: 4
 layout: page
 year: 2014
 photos:

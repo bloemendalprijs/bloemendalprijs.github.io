@@ -1,6 +1,6 @@
 ---
 title: Wouter Zwart
-position: 7
+position: 8
 layout: page
 year: 2006
 photos:
