@@ -1,5 +1,5 @@
 ---
-title: Gijs Sanders wint Philip Bloemendal Prijs voor grootste journalistieke presentatietalent van 2024
+title: Gijs Sanders wint Philip Bloemendal Prijs 2024
 date: 2024-12-20 15:30:00 +01:00
 photos:
 - image: "/uploads/gijs_sanders.jpg"
