@@ -8,7 +8,7 @@ photos:
 excerpt_separator: "<!--more-->"
 ---
 
-De winnaar van de Philip Bloemendal prijs 2024 is Gijs Sanders, presentator van het online platform De Marker (BNNVARA). Dat maakte Humberto Tan net bekend in AVROTROS-programma Humberto op NPO Radio 1. De Marker brengt dagelijks nieuws, achtergronden en opinie voor jongeren op hun Instagram-account, TikTok-kanaal en met een podcast. Deze tweejaarlijkse stimuleringsprijs, voor jong journalistiek presentatietalent in de media, werd vandaag voor de twaalfde keer uitgereikt live bij Beeld & Geluid. 
+De winnaar van de Philip Bloemendal prijs 2024 is Gijs Sanders, presentator van het online platform De Marker (BNNVARA). Dat maakte Humberto Tan op 20 december jl. bekend in AVROTROS-programma Humberto op NPO Radio 1. De Marker brengt dagelijks nieuws, achtergronden en opinie voor jongeren op hun Instagram-account, TikTok-kanaal en met een podcast. Deze tweejaarlijkse stimuleringsprijs, voor jong journalistiek presentatietalent in de media, werd voor de twaalfde keer uitgereikt live bij Beeld & Geluid. 
 
 <!--more-->
 
